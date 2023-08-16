@@ -86,8 +86,8 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 - PR 제목: [날짜] 푼 문제 수
 - ```ex) [230811] 7문제```
 - comment 
-    -  ~~ input, output 설명 ~~ 
-    - ~~ 풀이 아이디어(option) ~~
+    -  <del>input, output 설명</del>
+    - <del>풀이 아이디어(option)</del>
 
 #### 💬 Review Rule 
 -  👍💕(중요!!) 의견을 망설이지말고 쓰기!💕👍  

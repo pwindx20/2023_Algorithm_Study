@@ -41,6 +41,8 @@
 ``` 
 Github ID/문제출처(플랫폼)/날짜/문제명.py 
 ```
+
+- 문제명이 길면 문제 번호만 써도 오케이~
 - 플랫폼 작성법 통일:
     - [SEA] - SW Expert Academy
     - [BOJ] - 백준
@@ -84,8 +86,8 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 - PR 제목: [날짜] 푼 문제 수
 - ```ex) [230811] 7문제```
 - comment 
-    - input, output 설명
-    - 풀이 아이디어(option)
+    -  ~~ input, output 설명 ~~ 
+    - ~~ 풀이 아이디어(option) ~~
 
 #### 💬 Review Rule 
 -  👍💕(중요!!) 의견을 망설이지말고 쓰기!💕👍  
@@ -110,7 +112,7 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ/입출력과_사칙연산|[2557. Hello World](https://www.acmicpc.net/problem/2557) <br>[1000. A+B](https://www.acmicpc.net/problem/1000) <br>[1001. A-B](https://www.acmicpc.net/problem/1001) <br>[10998. AxB](https://www.acmicpc.net/problem/10998) <br>[1008.A/B](https://www.acmicpc.net/problem/1008) <br>[10869. 사칙연산](https://www.acmicpc.net/problem/10869) <br>[10926. ??!](https://www.acmicpc.net/problem/10926) <br>[18108. 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)|
 |230816 (수)||||
 ||BOJ/입출력과_사칙연산 <br>BOJ/조건문|[10430. 나머지](https://www.acmicpc.net/problem/10430) <br>[2588. 곱셈](https://www.acmicpc.net/problem/2588) <br>[11382. 꼬마정민](https://www.acmicpc.net/problem/11382) <br>[10171. 고양이](https://www.acmicpc.net/problem/10171) <br>[10172. 개](https://www.acmicpc.net/problem/10172) <br>------------------------ <br>[1330. 두 수 비교하기](https://www.acmicpc.net/problem/1330) <br>[9498. 시험 성적](https://www.acmicpc.net/problem/9498) <br>[2753. 윤년](https://www.acmicpc.net/problem/2753)||
-|230817 (목)|SEA/Stack2(2)|||
+|230817 (목)|SEA/Stack2(2)|[15038. 4881 배열 최소 합](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYKpnu66g98DFASv&probBoxId=AYn70Q4q9HkDFAU6&type=USER&problemBoxTitle=230816+Stack2-2&problemBoxCnt=3) <br> [15033. 4880 토너먼트 카드게임](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYKpmB-Kg14DFASv&probBoxId=AYn70Q4q9HkDFAU6&type=USER&problemBoxTitle=230816+Stack2-2&problemBoxCnt=3) <br>[1223. [S/W 문제해결 기본] 6일차 - 계산기2](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV14nnAaAFACFAYD&probBoxId=AYn70Q4q9HkDFAU6&type=PROBLEM&problemBoxTitle=230816+Stack2-2&problemBoxCnt=3)||
 ||BOJ/조건문 <br> BOJ/반복문|[14681. 사분면 고르기](https://www.acmicpc.net/problem/14681) <br>[2884. 알람 시계](https://www.acmicpc.net/problem/2884) <br>[2525. 오븐 시계](https://www.acmicpc.net/problem/2525) <br>[2480. 주사위 세개](https://www.acmicpc.net/problem/2480) <br>------------------------ <br>[2739. 구구단](https://www.acmicpc.net/problem/2739) <br>[10950. A+B-3](https://www.acmicpc.net/problem/10950) <br>[8393. 합](https://www.acmicpc.net/problem/8393) <br>[25304. 영수증](https://www.acmicpc.net/problem/25304)||
 |230818 (금)|SEA/Queue(1)|||
 ||BOJ/반복문|[25314. 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) <br>[15552. 빠른 A+B](https://www.acmicpc.net/problem/15552) <br>[11021. A+B-7](https://www.acmicpc.net/problem/11021) <br>[11022. A+B-8](https://www.acmicpc.net/problem/11022) <br>[2438. 별찍기-1](https://www.acmicpc.net/problem/2438) <br>[2439. 별찍기-2](https://www.acmicpc.net/problem/2439) <br>[10952. A+B-5](https://www.acmicpc.net/problem/10952) <br>[10951. A+B-4](https://www.acmicpc.net/problem/10951)||
@@ -122,6 +124,6 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 ### 참고
 [알고리즘 스터디를 진행하는 저장소](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study)
-[알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
-[Algorithm-Study](https://github.com/b1urrrr/Algorithm-Study#readme)
-[알고리즘 스터디](https://github.com/soo5717/2021-Algorithm-Study)
+<br>[알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
+<br>[Algorithm-Study](https://github.com/b1urrrr/Algorithm-Study#readme)
+<br>[알고리즘 스터디](https://github.com/soo5717/2021-Algorithm-Study)

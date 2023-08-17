@@ -15,7 +15,7 @@ for tc in range(1):
         else:
             if not ST:
                 ST.append(c)
-            else:
+            else: # 여기서부터 도저히 기억이 안난다...
                 bc = ST.pop()
                 if icp[bc] >= icp[c]:
                     while ST:
@@ -28,3 +28,4 @@ for tc in range(1):
     while ST:
         result = result +ST.pop()
     print(result)
+

@@ -12,3 +12,5 @@ for tc in range(1, T+1):
     ST = []
     used = [False]*N
     diff(0)
+
+    #하다 말았다....

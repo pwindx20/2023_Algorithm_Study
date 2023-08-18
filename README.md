@@ -8,7 +8,7 @@
 
 ## 🐣스터디원🐣
 
-|![img](https://avatars.githubusercontent.com/u/139323119?v=4)|![img](https://avatars.githubusercontent.com/u/139323197?v=4)|![img](https://avatars.githubusercontent.com/u/54338738?v=4)|![img](https://avatars.githubusercontent.com/u/139323324?v=4)|
+|![img](https://avatars.githubusercontent.com/u/139323119?v=4)|![img](https://avatars.githubusercontent.com/u/54338738?v=4)|![img](https://avatars.githubusercontent.com/u/139323197?v=4)|![img](https://avatars.githubusercontent.com/u/139323324?v=4)|
 |-|-|-|-|
 |강지수|김지수|위세영|정유나|
 |[@pwindx20](https://github.com/pwindx20)|[@kimjisux](https://github.com/kimjisux/)|[@wiese0630](https://github.com/wiese0630)|[@yunanayu](https://github.com/yunanayu)|

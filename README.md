@@ -111,6 +111,22 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ## 📅 일정표
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
 
+#### 🔥2주차🔥 
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230821 (월)||||
+||BOJ/IM 대비 문제|[2491. 수열](https://www.acmicpc.net/problem/2491) <br>[2564. 경비원](https://www.acmicpc.net/problem/2564)||
+|230822 (화)|SEA/Tree|[16438. 청소시키기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYY53aKacy0DFAVw&probBoxId=AYoV1_wqMlMDFAU6&type=USER&problemBoxTitle=230821+Tree-1&problemBoxCnt=4) <br>[5176. 이진탐색](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNdkB6BgQDFASv&probBoxId=AYoV1_wqMlMDFAU6&type=USER&problemBoxTitle=230821+Tree-1&problemBoxCnt=4) <br>[5174. subtree](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNc1M6BbQDFASv&probBoxId=AYoV1_wqMlMDFAU6&type=USER&problemBoxTitle=230821+Tree-1&problemBoxCnt=4) <br>[1231. [S/W 문제해결 기본] 9일차 - 중위순회](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV140YnqAIECFAYD&probBoxId=AYoV1_wqMlMDFAU6&type=PROBLEM&problemBoxTitle=230821+Tree-1&problemBoxCnt=4)||
+||BOJ/IM 대비 문제|[2563. 색종이](https://www.acmicpc.net/problem/2563) <br>[2605. 줄 세우기](https://www.acmicpc.net/problem/2605)||
+|230823 (수)|SEA/Tree|||
+||BOJ/IM 대비 문제|[2309. 일곱 난장이](https://www.acmicpc.net/problem/2309) <br>[14696. 딱지놀이](https://www.acmicpc.net/problem/14696)||
+|230824 (목)|SEA/start|||
+||BOJ/IM 대비 문제|[13300. 방배정](https://www.acmicpc.net/problem/13300) <br>[10163. 색종이](https://www.acmicpc.net/problem/10163)||
+|230825 (금)|SEA/start|||
+||BOJ/IM 대비 문제|[10158. 개미](https://www.acmicpc.net/problem/10158) <br>[10157. 자리배정](https://www.acmicpc.net/problem/10157)||
+|230825 (토)|SEA/문제풀이|||
+||BOJ/IM 대비 문제|[2527. 직사각형](https://www.acmicpc.net/problem/2527) <br>[2477. 참외밭](https://www.acmicpc.net/problem/2477)||
+
 #### 🔥1주차🔥 
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|

@@ -3,10 +3,11 @@
 # 출력: #t 노드 N을 루트로 하는 서브 트리에 속한 노드의 개수
 def subtree(root):
     global cnt
-    if root < E+1:
+    if root:
+        # print('root, TREE[root]:',root, TREE[root])
         cnt += 1
-        subtree(root*2)
-        subtree(root*2+1)
+        subtree(TREE[root][0])
+        subtree(TREE[root][1])
 
 T = int(input())
 for tc in range(1, T+1):
@@ -18,8 +19,9 @@ for tc in range(1, T+1):
             TREE[edges[i]][1] = edges[i+1]
         else:
             TREE[edges[i]][0] = edges[i+1]
-    # print(TREE)
+    # print('TREE:',TREE)
     
     cnt = 0
     subtree(N)
-    print(cnt)
+    # print('cnt:',cnt)
+    print(f'#{tc} {cnt}')

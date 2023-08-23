@@ -5,6 +5,40 @@
 - 언어: 파이썬
 <br><br>
 
+## 👩‍💻 오늘의 문제
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230823 (수)|SEA/Tree|[5178. 노드의 합](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNfHKaBo4DFASv&probBoxId=AYoaicl6byIDFAU6&type=USER&problemBoxTitle=230822+Tree-2&problemBoxCnt=3) <br>[5177. 이진 힙](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNecmaBlsDFASv&probBoxId=AYoaicl6byIDFAU6&type=USER&problemBoxTitle=230822+Tree-2&problemBoxCnt=3) <br>[4615. 재미있는 오셀로 게임](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWQmA4uK8ygDFAXj&probBoxId=AYoaicl6byIDFAU6&type=PROBLEM&problemBoxTitle=230822+Tree-2&problemBoxCnt=4) <br>[1232. [S/W 문제해결 기본] 9일차 - 사칙연산](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV141J8KAIcCFAYD&probBoxId=AYoaicl6byIDFAU6&type=PROBLEM&problemBoxTitle=230822+Tree-2&problemBoxCnt=3)||
+||BOJ/IM 대비 문제|[2309. 일곱 난장이](https://www.acmicpc.net/problem/2309) <br>[14696. 딱지놀이](https://www.acmicpc.net/problem/14696)||
+
+
+<br>
+
+#### 참고) IM 대비 문제
+- [2669. 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
+- [2635. 수 이어가기](https://www.acmicpc.net/problem/2635)
+- [1244. 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+- [12927. 배수스위치](https://www.acmicpc.net/problem/12927)
+- [2628. 종이 자르기](https://www.acmicpc.net/problem/2628)
+- [2116. 주사위 쌓기](https://www.acmicpc.net/problem/2116)
+- [2304. 창고 다각형](https://www.acmicpc.net/problem/2304)
+- [2559. 수열](https://www.acmicpc.net/problem/2559)
+- [2578. 빙고](https://www.acmicpc.net/problem/2578)
+- [2477. 참외밭](https://www.acmicpc.net/problem/2477)
+- [2527. 직사각형](https://www.acmicpc.net/problem/2527)
+- [10157. 자리배정](https://www.acmicpc.net/problem/10157)
+- [10158. 개미](https://www.acmicpc.net/problem/10158)
+- [10163. 색종이](https://www.acmicpc.net/problem/10163)
+- [13300. 방배정](https://www.acmicpc.net/problem/13300)
+- [14696. 딱지놀이](https://www.acmicpc.net/problem/14696)
+- [2309. 일곱난장이](https://www.acmicpc.net/problem/2309)
+- [2605. 줄세우기](https://www.acmicpc.net/problem/2605)
+- [2563. 색종이](https://www.acmicpc.net/problem/2563)
+- [2564. 경비원](https://www.acmicpc.net/problem/2564)
+- [2491. 수열](https://www.acmicpc.net/problem/2491)
+
+<br> <br>
+
 
 ## 🐣스터디원🐣
 
@@ -118,9 +152,9 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ/IM 대비 문제|[2491. 수열](https://www.acmicpc.net/problem/2491) <br>[2564. 경비원](https://www.acmicpc.net/problem/2564)||
 |230822 (화)|SEA/Tree|[16438. 청소시키기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYY53aKacy0DFAVw&probBoxId=AYoV1_wqMlMDFAU6&type=USER&problemBoxTitle=230821+Tree-1&problemBoxCnt=4) <br>[5176. 이진탐색](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNdkB6BgQDFASv&probBoxId=AYoV1_wqMlMDFAU6&type=USER&problemBoxTitle=230821+Tree-1&problemBoxCnt=4) <br>[5174. subtree](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNc1M6BbQDFASv&probBoxId=AYoV1_wqMlMDFAU6&type=USER&problemBoxTitle=230821+Tree-1&problemBoxCnt=4) <br>[1231. [S/W 문제해결 기본] 9일차 - 중위순회](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV140YnqAIECFAYD&probBoxId=AYoV1_wqMlMDFAU6&type=PROBLEM&problemBoxTitle=230821+Tree-1&problemBoxCnt=4)||
 ||BOJ/IM 대비 문제|[2563. 색종이](https://www.acmicpc.net/problem/2563) <br>[2605. 줄 세우기](https://www.acmicpc.net/problem/2605)||
-|230823 (수)|SEA/Tree|[5178. 노드의 합](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNfHKaBo4DFASv&probBoxId=AYoaicl6byIDFAU6&type=USER&problemBoxTitle=230822+Tree-2&problemBoxCnt=3) <br>[5177. 이진 힙](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNecmaBlsDFASv&probBoxId=AYoaicl6byIDFAU6&type=USER&problemBoxTitle=230822+Tree-2&problemBoxCnt=3) <br>[1232. [S/W 문제해결 기본] 9일차 - 사칙연산](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV141J8KAIcCFAYD&probBoxId=AYoaicl6byIDFAU6&type=PROBLEM&problemBoxTitle=230822+Tree-2&problemBoxCnt=3)||
+|230823 (수)|SEA/Tree|[5178. 노드의 합](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNfHKaBo4DFASv&probBoxId=AYoaicl6byIDFAU6&type=USER&problemBoxTitle=230822+Tree-2&problemBoxCnt=3) <br>[5177. 이진 힙](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLNecmaBlsDFASv&probBoxId=AYoaicl6byIDFAU6&type=USER&problemBoxTitle=230822+Tree-2&problemBoxCnt=3) <br>[4615. 재미있는 오셀로 게임](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWQmA4uK8ygDFAXj&probBoxId=AYoaicl6byIDFAU6&type=PROBLEM&problemBoxTitle=230822+Tree-2&problemBoxCnt=4) <br>[1232. [S/W 문제해결 기본] 9일차 - 사칙연산](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV141J8KAIcCFAYD&probBoxId=AYoaicl6byIDFAU6&type=PROBLEM&problemBoxTitle=230822+Tree-2&problemBoxCnt=3)||
 ||BOJ/IM 대비 문제|[2309. 일곱 난장이](https://www.acmicpc.net/problem/2309) <br>[14696. 딱지놀이](https://www.acmicpc.net/problem/14696)||
-|230824 (목)|SEA/start|||
+|230824 (목)|SEA/start|[5185. [파이썬 S/W 문제해결 구현] 1일차 - 이진수](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYNTCbFaOfgDFATf&probBoxId=AYofsrYKowkDFAU6&type=USER&problemBoxTitle=230823+Start-1&problemBoxCnt=2) <br>[5186. [파이썬 S/W 문제해결 구현] 1일차 - 이진수2](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYNTDOIKOgsDFATf&probBoxId=AYofsrYKowkDFAU6&type=USER&problemBoxTitle=230823+Start-1&problemBoxCnt=2) <br>[1240. [S/W 문제해결 응용] 1일차 - 단순 2진 암호코드](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV15FZuqAL4CFAYD&probBoxId=AYofsrYKowkDFAU6&type=PROBLEM&problemBoxTitle=230823+Start-1&problemBoxCnt=3)||
 ||BOJ/IM 대비 문제|[13300. 방배정](https://www.acmicpc.net/problem/13300) <br>[10163. 색종이](https://www.acmicpc.net/problem/10163)||
 |230825 (금)|SEA/start|||
 ||BOJ/IM 대비 문제|[10158. 개미](https://www.acmicpc.net/problem/10158) <br>[10157. 자리배정](https://www.acmicpc.net/problem/10157)||

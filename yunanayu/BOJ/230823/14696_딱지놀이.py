@@ -20,6 +20,15 @@ def play():
     return 'D'
 
 
+def play2():
+    for i in range(4,0,-1):
+        if A.count(i) > B.count(i):
+            return 'A'
+        elif A.count(i) < B.count(i):
+            return 'B'
+        elif A.count(i) == B.count(i):
+            continue
+    return 'D'
 
 
 N = int(input())
@@ -28,4 +37,4 @@ for _ in range(N):
     a = A.pop(0)
     B = list(map(int, input().split()))
     b = B.pop(0)
-    print(play())
+    print(play2())

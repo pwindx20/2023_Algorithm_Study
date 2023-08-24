@@ -23,7 +23,7 @@ for i in range(8):
 for i in sorted(H):
     print(i)
 
-#-------------------------------------------아래가 제출한 정답
+#-----------------------------------------아래가 제출한 정답
 def seven():
     for i in range(8):
         for j in range(i+1,9):

@@ -1,6 +1,5 @@
 import sys
 sys.stdin = open('input.txt','r')
-# sys.stdin = open('output.txt','w')
 
 
 code_dct = {

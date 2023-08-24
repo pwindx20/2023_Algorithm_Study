@@ -4,9 +4,10 @@
 #       가로, 세로 (1~1001)
 # 출력: 색종이가 보이는 부분의 면적을 한 줄에 하나씩 하나의 정수로 출력
 #       색종이가 보이지 않으면 정수 0 출력
+import sys
 
-N = int(input())
-paper = [list(map(int, input().split())) for _ in range(N)]
+N  = int(sys.stdin.readline())
+paper = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 maxr = max([x[0]+x[2] for x in paper])
 maxc = max([x[1]+x[3] for x in paper])
 basic = [[0]*(maxc+1) for _ in range(maxr+1)]

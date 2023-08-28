@@ -1,6 +1,7 @@
 # 2023_Algorithm_Study👀
 
-- 정기 모임: 일요일 오전 시~
+- 정기 모임: 일요일 오전 10시~12시
+- 장소: 
 - 문제 사이트: [SW Expert Academy](https://www.swexpertacademy.com), [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr)
 - 언어: 파이썬
 <br><br>
@@ -8,43 +9,18 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230825 (토)|SEA/문제풀이|[13976. IM 대비 기지국](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AX8vqlPK7jgDFAQe&probBoxId=AYoqI0wKozwDFAV6&type=USER&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4) <br>[5658. [모의 SW 역량테스트] 보물상자 비밀번호](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWXRUN9KfZ8DFAUo&probBoxId=AYoqI0wKozwDFAV6&type=PROBLEM&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4) <br>[5356. 의석이의 세로로 말해요](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWVWgkP6sQ0DFAUO&probBoxId=AYoqI0wKozwDFAV6&type=PROBLEM&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4) <br>[2117. [모의 SW 역량테스트] 홈 방범 서비스](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5V61LqAf8DFAWu&probBoxId=AYoqI0wKozwDFAV6&type=PROBLEM&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4)||
-||BOJ/IM 대비 문제|[2527. 직사각형](https://www.acmicpc.net/problem/2527) <br>[2477. 참외밭](https://www.acmicpc.net/problem/2477)||
-
-<br>
-
-#### 참고) IM 대비 문제
-- [2669. 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
-- [2635. 수 이어가기](https://www.acmicpc.net/problem/2635)
-- [1244. 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
-- [12927. 배수스위치](https://www.acmicpc.net/problem/12927)
-- [2628. 종이 자르기](https://www.acmicpc.net/problem/2628)
-- [2116. 주사위 쌓기](https://www.acmicpc.net/problem/2116)
-- [2304. 창고 다각형](https://www.acmicpc.net/problem/2304)
-- [2559. 수열](https://www.acmicpc.net/problem/2559)
-- [2578. 빙고](https://www.acmicpc.net/problem/2578)
-- [2477. 참외밭](https://www.acmicpc.net/problem/2477)
-- [2527. 직사각형](https://www.acmicpc.net/problem/2527)
-- [10157. 자리배정](https://www.acmicpc.net/problem/10157)
-- [10158. 개미](https://www.acmicpc.net/problem/10158)
-- [10163. 색종이](https://www.acmicpc.net/problem/10163)
-- [13300. 방배정](https://www.acmicpc.net/problem/13300)
-- [14696. 딱지놀이](https://www.acmicpc.net/problem/14696)
-- [2309. 일곱난장이](https://www.acmicpc.net/problem/2309)
-- [2605. 줄세우기](https://www.acmicpc.net/problem/2605)
-- [2563. 색종이](https://www.acmicpc.net/problem/2563)
-- [2564. 경비원](https://www.acmicpc.net/problem/2564)
-- [2491. 수열](https://www.acmicpc.net/problem/2491)
+|230828 (월)|SEA|||
+||BOJ/1차원 배열<br>BOJ/문자열|[10811. 바구니 뒤집기](https://www.acmicpc.net/problem/10811) <br>[1546. 평균](https://www.acmicpc.net/problem/1546) <br>[27866. 문자와 문자열](https://www.acmicpc.net/problem/27866) <br>[2743. 단어 길이 재기](https://www.acmicpc.net/problem/2743) <br>[9086. 문자열](https://www.acmicpc.net/problem/9086) <br>[11654. 아스키 코드](https://www.acmicpc.net/problem/11654) <br>[11720. 숫자의 합](https://www.acmicpc.net/problem/11720) <br>[10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
 
 <br> <br>
 
 
 ## 🐣스터디원🐣
 
-|![img](https://avatars.githubusercontent.com/u/139323119?v=4)|![img](https://avatars.githubusercontent.com/u/54338738?v=4)|![img](https://avatars.githubusercontent.com/u/139323197?v=4)|![img](https://avatars.githubusercontent.com/u/139323324?v=4)|
-|-|-|-|-|
-|강지수|김지수|위세영|정유나|
-|[@pwindx20](https://github.com/pwindx20)|[@kimjisux](https://github.com/kimjisux/)|[@wiese0630](https://github.com/wiese0630)|[@yunanayu](https://github.com/yunanayu)|
+|![img](https://avatars.githubusercontent.com/u/139323119?v=4)|![img](https://avatars.githubusercontent.com/u/139323197?v=4)|![img](https://avatars.githubusercontent.com/u/139323324?v=4)|
+|-|-|-|
+|강지수|위세영|정유나|
+|[@pwindx20](https://github.com/pwindx20)|[@wiese0630](https://github.com/wiese0630)|[@yunanayu](https://github.com/yunanayu)|
 
 <br><br>
 
@@ -62,9 +38,9 @@
 #### 🔍진행방식
 |요일||
 |-|-|
-|화~토| 문제 풀이 + 코드 리뷰|
+|월~금| 문제 풀이 + 코드 리뷰|
 |일| 시험준비 (주중 학습 내용 복습)|
-|월| 코드 리뷰 마무리 + PR merge|
+
 
 #### 📖시험 준비
 - 주중 배운 알고리즘 설명 + Pseudo code 작성하기
@@ -144,6 +120,25 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ## 📅 일정표
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
 
+#### 🔥3주차🔥 
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230828 (월)|SEA|||
+||BOJ/1차원 배열<br>BOJ/문자열|[10811. 바구니 뒤집기](https://www.acmicpc.net/problem/10811) <br>[1546. 평균](https://www.acmicpc.net/problem/1546) <br>[27866. 문자와 문자열](https://www.acmicpc.net/problem/27866) <br>[2743. 단어 길이 재기](https://www.acmicpc.net/problem/2743) <br>[9086. 문자열](https://www.acmicpc.net/problem/9086) <br>[11654. 아스키 코드](https://www.acmicpc.net/problem/11654) <br>[11720. 숫자의 합](https://www.acmicpc.net/problem/11720) <br>[10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
+|230829 (화)|SEA|||
+||BOJ/문자열 <br>BOJ/심화|[2675. 문자열 반복](https://www.acmicpc.net/problem/2675) <br>[1152. 단어의 개수](https://www.acmicpc.net/problem/1152) <br>[2908. 상수](https://www.acmicpc.net/problem/2908) <br>[5622. 다이얼](https://www.acmicpc.net/problem/5622) <br>[11718. 그대로 출력하기](https://www.acmicpc.net/problem/11718) <br>[25083. 새싹](https://www.acmicpc.net/problem/25083) <br>[3003. 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) <br>[2444. 별 찍기-7](https://www.acmicpc.net/problem/2444)||
+|230830 (수)|SEA|||
+||BOJ/심화 <br>BOJ/2차원 배열|[10988. 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) <br>[1157. 단어 공부](https://www.acmicpc.net/problem/1157) <br>[2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) <br>[1316. 그룹 단어 체커](https://www.acmicpc.net/problem/1316) <br>[25206. 너의 평점은](https://www.acmicpc.net/problem/25206) <br>[2738. 행렬 덧셈](https://www.acmicpc.net/problem/2738) <br>[2566. 최댓값](https://www.acmicpc.net/problem/2566) <br>[10798. 세로읽기](https://www.acmicpc.net/problem/10798)||
+|230831 (목)|SEA|||
+||BOJ/2차원 배열 <br>BOJ/일반 수학 1|[2563. 색종이](https://www.acmicpc.net/problem/2563) <br>[2745. 진법 변환](https://www.acmicpc.net/problem/2745) <br>[11005. 진법 변환 2](https://www.acmicpc.net/problem/11005) <br>[2720. 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) <br>[2903. 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) <br>[2292. 벌집](https://www.acmicpc.net/problem/2292) <br>[1193. 분수찾기](https://www.acmicpc.net/problem/1193) <br>[2869. 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)||
+|230901 (금)|SEA|||
+||BOJ/약수, 배수와 소수|[5086. 배수와 약수](https://www.acmicpc.net/problem/5086)<br>[2501. 약수 구하기](https://www.acmicpc.net/problem/2501)<br>[9506. 약수들의 합](https://www.acmicpc.net/problem/9506) <br>[1978. 소수 찾기](https://www.acmicpc.net/problem/1978) <br>[2581. 소수](https://www.acmicpc.net/problem/2581) <br>[11653. 소인수분해](https://www.acmicpc.net/problem/11653) <br>[27323. 직사각형](https://www.acmicpc.net/problem/27323) <br>[1085. 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)||
+
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
+
 #### 🔥2주차🔥 
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
@@ -160,6 +155,34 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 |230825 (토)|SEA/문제풀이|[13976. IM 대비 기지국](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AX8vqlPK7jgDFAQe&probBoxId=AYoqI0wKozwDFAV6&type=USER&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4) <br>[5658. [모의 SW 역량테스트] 보물상자 비밀번호](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWXRUN9KfZ8DFAUo&probBoxId=AYoqI0wKozwDFAV6&type=PROBLEM&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4) <br>[5356. 의석이의 세로로 말해요](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWVWgkP6sQ0DFAUO&probBoxId=AYoqI0wKozwDFAV6&type=PROBLEM&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4) <br>[2117. [모의 SW 역량테스트] 홈 방범 서비스](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5V61LqAf8DFAWu&probBoxId=AYoqI0wKozwDFAV6&type=PROBLEM&problemBoxTitle=230825+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=4)||
 ||BOJ/IM 대비 문제|[2527. 직사각형](https://www.acmicpc.net/problem/2527) <br>[2477. 참외밭](https://www.acmicpc.net/problem/2477)||
 
+
+<br>
+
+#### 참고) IM 대비 문제
+- [2669. 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)
+- [2635. 수 이어가기](https://www.acmicpc.net/problem/2635)
+- [1244. 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+- [12927. 배수스위치](https://www.acmicpc.net/problem/12927)
+- [2628. 종이 자르기](https://www.acmicpc.net/problem/2628)
+- [2116. 주사위 쌓기](https://www.acmicpc.net/problem/2116)
+- [2304. 창고 다각형](https://www.acmicpc.net/problem/2304)
+- [2559. 수열](https://www.acmicpc.net/problem/2559)
+- [2578. 빙고](https://www.acmicpc.net/problem/2578)
+- [2477. 참외밭](https://www.acmicpc.net/problem/2477)
+- [2527. 직사각형](https://www.acmicpc.net/problem/2527)
+- [10157. 자리배정](https://www.acmicpc.net/problem/10157)
+- [10158. 개미](https://www.acmicpc.net/problem/10158)
+- [10163. 색종이](https://www.acmicpc.net/problem/10163)
+- [13300. 방배정](https://www.acmicpc.net/problem/13300)
+- [14696. 딱지놀이](https://www.acmicpc.net/problem/14696)
+- [2309. 일곱난장이](https://www.acmicpc.net/problem/2309)
+- [2605. 줄세우기](https://www.acmicpc.net/problem/2605)
+- [2563. 색종이](https://www.acmicpc.net/problem/2563)
+- [2564. 경비원](https://www.acmicpc.net/problem/2564)
+- [2491. 수열](https://www.acmicpc.net/problem/2491)
+
+<br>
+
 #### 🔥1주차🔥 
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
@@ -174,6 +197,9 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 |230819 (토)|SEA/Queue(2)|[16811. 당근 포장하기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYamNLoKGSgDFAVx&probBoxId=AYoGH8z6ktIDFAU6&type=USER&problemBoxTitle=230818+Queue-2&problemBoxCnt=6) <br>[5102. 노드의 거리](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLD7Caa4OcDFASv&probBoxId=AYoGH8z6ktIDFAU6&type=USER&problemBoxTitle=230818+Queue-2&problemBoxCnt=3) <br> [5105. 미로의 거리](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYLD5roK4JQDFASv&probBoxId=AYoGH8z6ktIDFAU6&type=USER&problemBoxTitle=230818+Queue-2&problemBoxCnt=3) [1238. [S/W 문제해결 기본] 10일차 Contact](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV15B1cKAKwCFAYD&probBoxId=AYoGH8z6ktIDFAU6&type=PROBLEM&problemBoxTitle=230818+Queue-2&problemBoxCnt=6) <br>[1227. [S/W 문제해결 기본] 7일차 - 미로2](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV14wL9KAGkCFAYD&probBoxId=AYoGH8z6ktIDFAU6&type=PROBLEM&problemBoxTitle=230818+Queue-2&problemBoxCnt=6) <br>[1226. [S/W 문제해결 기본] 7일차 - 미로1](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV14vXUqAGMCFAYD&probBoxId=AYoGH8z6ktIDFAU6&type=PROBLEM&problemBoxTitle=230818+Queue-2&problemBoxCnt=3)||
 ||BOJ/1차원_배열|[10807. 개수세기](https://www.acmicpc.net/problem/10807) <br>[10871. X보다 작은 수](https://www.acmicpc.net/problem/10871) <br>[10818. 최소, 최대](https://www.acmicpc.net/problem/10818) <br>[2562. 최댓값](https://www.acmicpc.net/problem/2562) <br>[10810. 공 넣기](https://www.acmicpc.net/problem/10810) <br>[10813. 공바꾸기](https://www.acmicpc.net/problem/10813) <br>[5597. 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) <br>[3052. 나머지](https://www.acmicpc.net/problem/3052)||
 |230820 (일)||||
+
+</details>
+
 
 <br><br>
 

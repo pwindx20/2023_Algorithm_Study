@@ -8,18 +8,18 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230829 (화)|SEA|||
-||BOJ/문자열 <br>BOJ/심화|[2675. 문자열 반복](https://www.acmicpc.net/problem/2675) <br>[1152. 단어의 개수](https://www.acmicpc.net/problem/1152) <br>[2908. 상수](https://www.acmicpc.net/problem/2908) <br>[5622. 다이얼](https://www.acmicpc.net/problem/5622) <br>[11718. 그대로 출력하기](https://www.acmicpc.net/problem/11718) <br>[25083. 새싹](https://www.acmicpc.net/problem/25083) <br>[3003. 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) <br>[2444. 별 찍기-7](https://www.acmicpc.net/problem/2444)||
+|230830 (수)|SEA|[4875. 미로](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYKplaYKgwYDFASv&probBoxId=AYnx0voqFHQDFAU6&type=USER&problemBoxTitle=230814+Stack2-1&problemBoxCnt=3) <br>[10966. 물놀이를 가자](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AXWXMZta-PsDFAST&probBoxId=AYo_wWjqZvYDFAV6&type=PROBLEM&problemBoxTitle=230829+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=3) <br>[4366. 정식이의 은행업무](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWMeRLz6kC0DFAXd&probBoxId=AYo_wWjqZvYDFAV6&type=PROBLEM&problemBoxTitle=230829+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=3) <br>[1953. [모의 SW 역량테스트] 탈주범 검거](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpLlKAQ4DFAUq&probBoxId=AYo_wWjqZvYDFAV6&type=PROBLEM&problemBoxTitle=230829+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=3)||
+||BOJ/심화 <br>BOJ/2차원 배열|[10988. 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) <br>[1157. 단어 공부](https://www.acmicpc.net/problem/1157) <br>[2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) <br>[1316. 그룹 단어 체커](https://www.acmicpc.net/problem/1316) <br>[25206. 너의 평점은](https://www.acmicpc.net/problem/25206) <br>[2738. 행렬 덧셈](https://www.acmicpc.net/problem/2738) <br>[2566. 최댓값](https://www.acmicpc.net/problem/2566) <br>[10798. 세로읽기](https://www.acmicpc.net/problem/10798)||
 
 <br> <br>
 
 
 ## 🐣스터디원🐣
 
-|![img](https://avatars.githubusercontent.com/u/139323119?v=4)|![img](https://avatars.githubusercontent.com/u/139323197?v=4)|![img](https://avatars.githubusercontent.com/u/139323324?v=4)|
-|-|-|-|
-|강지수|위세영|정유나|
-|[@pwindx20](https://github.com/pwindx20)|[@wiese0630](https://github.com/wiese0630)|[@yunanayu](https://github.com/yunanayu)|
+|![img](https://avatars.githubusercontent.com/u/139323119?v=4)|![img](https://avatars.githubusercontent.com/u/139323197?v=4)|![img](https://avatars.githubusercontent.com/u/139323324?v=4)|![img](https://avatars.githubusercontent.com/u/112293078?v=4)|
+|-|-|-|-|
+|강지수|위세영|정유나|정태윤|
+|[@pwindx20](https://github.com/pwindx20)|[@wiese0630](https://github.com/wiese0630)|[@yunanayu](https://github.com/yunanayu)|[@wjdxodbs](https://github.com/wjdxodbs)|
 
 <br><br>
 
@@ -126,7 +126,7 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ/1차원 배열<br>BOJ/문자열|[10811. 바구니 뒤집기](https://www.acmicpc.net/problem/10811) <br>[1546. 평균](https://www.acmicpc.net/problem/1546) <br>[27866. 문자와 문자열](https://www.acmicpc.net/problem/27866) <br>[2743. 단어 길이 재기](https://www.acmicpc.net/problem/2743) <br>[9086. 문자열](https://www.acmicpc.net/problem/9086) <br>[11654. 아스키 코드](https://www.acmicpc.net/problem/11654) <br>[11720. 숫자의 합](https://www.acmicpc.net/problem/11720) <br>[10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
 |230829 (화)|SEA|||
 ||BOJ/문자열 <br>BOJ/심화|[2675. 문자열 반복](https://www.acmicpc.net/problem/2675) <br>[1152. 단어의 개수](https://www.acmicpc.net/problem/1152) <br>[2908. 상수](https://www.acmicpc.net/problem/2908) <br>[5622. 다이얼](https://www.acmicpc.net/problem/5622) <br>[11718. 그대로 출력하기](https://www.acmicpc.net/problem/11718) <br>[25083. 새싹](https://www.acmicpc.net/problem/25083) <br>[3003. 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) <br>[2444. 별 찍기-7](https://www.acmicpc.net/problem/2444)||
-|230830 (수)|SEA|||
+|230830 (수)|SEA|[4875. 미로](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYKplaYKgwYDFASv&probBoxId=AYnx0voqFHQDFAU6&type=USER&problemBoxTitle=230814+Stack2-1&problemBoxCnt=3) <br>[10966. 물놀이를 가자](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AXWXMZta-PsDFAST&probBoxId=AYo_wWjqZvYDFAV6&type=PROBLEM&problemBoxTitle=230829+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=3) <br>[4366. 정식이의 은행업무](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWMeRLz6kC0DFAXd&probBoxId=AYo_wWjqZvYDFAV6&type=PROBLEM&problemBoxTitle=230829+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=3) <br>[1953. [모의 SW 역량테스트] 탈주범 검거](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpLlKAQ4DFAUq&probBoxId=AYo_wWjqZvYDFAV6&type=PROBLEM&problemBoxTitle=230829+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=3)||
 ||BOJ/심화 <br>BOJ/2차원 배열|[10988. 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) <br>[1157. 단어 공부](https://www.acmicpc.net/problem/1157) <br>[2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) <br>[1316. 그룹 단어 체커](https://www.acmicpc.net/problem/1316) <br>[25206. 너의 평점은](https://www.acmicpc.net/problem/25206) <br>[2738. 행렬 덧셈](https://www.acmicpc.net/problem/2738) <br>[2566. 최댓값](https://www.acmicpc.net/problem/2566) <br>[10798. 세로읽기](https://www.acmicpc.net/problem/10798)||
 |230831 (목)|SEA|||
 ||BOJ/2차원 배열 <br>BOJ/일반 수학 1|[2563. 색종이](https://www.acmicpc.net/problem/2563) <br>[2745. 진법 변환](https://www.acmicpc.net/problem/2745) <br>[11005. 진법 변환 2](https://www.acmicpc.net/problem/11005) <br>[2720. 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) <br>[2903. 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) <br>[2292. 벌집](https://www.acmicpc.net/problem/2292) <br>[1193. 분수찾기](https://www.acmicpc.net/problem/1193) <br>[2869. 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)||

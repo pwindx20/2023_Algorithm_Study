@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230828 (월)|SEA|||
-||BOJ/1차원 배열<br>BOJ/문자열|[10811. 바구니 뒤집기](https://www.acmicpc.net/problem/10811) <br>[1546. 평균](https://www.acmicpc.net/problem/1546) <br>[27866. 문자와 문자열](https://www.acmicpc.net/problem/27866) <br>[2743. 단어 길이 재기](https://www.acmicpc.net/problem/2743) <br>[9086. 문자열](https://www.acmicpc.net/problem/9086) <br>[11654. 아스키 코드](https://www.acmicpc.net/problem/11654) <br>[11720. 숫자의 합](https://www.acmicpc.net/problem/11720) <br>[10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
+|230829 (화)|SEA|||
+||BOJ/문자열 <br>BOJ/심화|[2675. 문자열 반복](https://www.acmicpc.net/problem/2675) <br>[1152. 단어의 개수](https://www.acmicpc.net/problem/1152) <br>[2908. 상수](https://www.acmicpc.net/problem/2908) <br>[5622. 다이얼](https://www.acmicpc.net/problem/5622) <br>[11718. 그대로 출력하기](https://www.acmicpc.net/problem/11718) <br>[25083. 새싹](https://www.acmicpc.net/problem/25083) <br>[3003. 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) <br>[2444. 별 찍기-7](https://www.acmicpc.net/problem/2444)||
 
 <br> <br>
 

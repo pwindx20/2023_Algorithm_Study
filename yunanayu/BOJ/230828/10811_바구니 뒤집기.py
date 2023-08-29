@@ -1,12 +1,17 @@
 N, M = map(int, input().split())
-lst = []
+basket = []
 for i in range(1, N+1):
-    lst.append(i)
+    basket.append(i)
 for _ in range(M):
     i, j = map(int, input().split())
-    for k in range(i-1,j//2):
-        lst[k],lst[j-k-1] = lst[j-k-1], lst[k]
-        # for m in range(j-1,i-2,-1):
-        #     lst[k],lst[m] = lst[m], lst[k]
-
-print(*lst)
+    lst = basket[i-1:j:][::-1]
+    m = 0
+    for k in range(i-1,j):
+        basket[i-1] = lst[m]
+        m+=1
+    # print(basket)
+    # basket[i:i+j] = lst
+#     # print(lst)
+print(*basket)
+# basket[0] = 10
+# print(basket)

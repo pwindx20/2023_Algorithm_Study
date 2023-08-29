@@ -1,3 +1,4 @@
+# 숫자의합
 N = int(input())
 num = input()
 ans = 0

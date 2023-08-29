@@ -1,7 +1,6 @@
 # 2023_Algorithm_Study👀
 
 - 정기 모임: 일요일 오전 10시~12시
-- 장소: 
 - 문제 사이트: [SW Expert Academy](https://www.swexpertacademy.com), [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr)
 - 언어: 파이썬
 <br><br>

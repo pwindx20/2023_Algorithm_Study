@@ -4,16 +4,16 @@ sys.stdin = open('input.txt','r')
 
 def bingo(arr):
     bin = 0
-    # for i in range(5):
-    #     if arr[i] == [0,0,0,0,0]:
-    #         bin += 1
     for i in range(5):
-        cnt = 0
-        for j in range(5):
-            if arr[i][j] == 0:
-                cnt += 1
-        if cnt == 5:
+        if arr[i] == [0,0,0,0,0]:
             bin += 1
+    # for i in range(5):
+    #     cnt = 0
+    #     for j in range(5):
+    #         if arr[i][j] == 0:
+    #             cnt += 1
+    #     if cnt == 5:
+    #         bin += 1
     for i in range(5):
         cnt2 = 0
         for j in range(5):
@@ -28,7 +28,7 @@ def bingo(arr):
     if cnt3 == 5:
         bin += 1
     cnt4 = 0
-    for c, d in [(0,4), (3,1), (2,2), (1,3),(0,4)]:
+    for c, d in [(0,4), (3,1), (2,2), (1,3),(4,0)]:
         if arr[c][d] == 0:
             cnt4 += 1
     if cnt4 == 5:
@@ -50,7 +50,7 @@ for l in lst:
             if arr[r][c] == l:
                 arr[r][c] = 0
                 ans += 1
-            if ans >= 12:
-                if bingo(arr) >= 3:
-                    print(ans)
-                    exit()
+        # if ans >= 12:
+            if bingo(arr) >= 3:
+                print(ans)
+                exit()

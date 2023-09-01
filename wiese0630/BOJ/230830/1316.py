@@ -8,7 +8,7 @@ cnt_for_G = 0 #그룹 단어의 개수
 for _ in range(N):
     S = input()
 
-    lst = []
+     = []
     cnt = 1
 
     for i in range(len(S)):

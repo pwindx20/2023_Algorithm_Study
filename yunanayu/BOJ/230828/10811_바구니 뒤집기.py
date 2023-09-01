@@ -7,7 +7,7 @@ for _ in range(M):
     lst = basket[i-1:j:][::-1]
     m = 0
     for k in range(i-1,j):
-        basket[i-1] = lst[m]
+        basket[k-1] = lst[m]
         m+=1
     # print(basket)
     # basket[i:i+j] = lst

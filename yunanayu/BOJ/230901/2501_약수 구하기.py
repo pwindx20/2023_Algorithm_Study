@@ -1,6 +1,10 @@
 result = []
 N, K = map(int, input().split())
 for n in range(1, N+1):
-    result.append(N%n)
+    if N % n == 0:
+        result.append(n)
 result.sort()
-print(result[K-1])
+if len(result) < K:
+    print(0)
+else:
+    print(result[K-1])

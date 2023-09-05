@@ -4,12 +4,14 @@
 - 문제 사이트: [SW Expert Academy](https://www.swexpertacademy.com), [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr)
 - 언어: 파이썬
 <br><br>
+## 👾이번 주 도전과제
+| PGS / lv.2 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230904 (월)|SEA/문제풀이|[10966. 물놀이를 가자](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AXWXMZta-PsDFAST&probBoxId=AYpOAo0q1PcDFAV6&type=PROBLEM&problemBoxTitle=230901+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[4366. 정식이의 은행업무](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWMeRLz6kC0DFAXd&probBoxId=AYpOAo0q1PcDFAV6&type=PROBLEM&problemBoxTitle=230901+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[2817. 부분 수열의 합](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV7IzvG6EksDFAXB&probBoxId=AYpOAo0q1PcDFAV6&type=PROBLEM&problemBoxTitle=230901+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1953. [모의 S/W 역량 테스트] 탈주범 검거](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpLlKAQ4DFAUq&probBoxId=AYpOAo0q1PcDFAV6&type=PROBLEM&problemBoxTitle=230901+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1861. 정사각형 방](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5LtJYKDzsDFAXc&probBoxId=AYpOAo0q1PcDFAV6&type=PROBLEM&problemBoxTitle=230901+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5)||
-||BOJ/기하:직사각형과 삼각형 <br>BOJ/시간 복잡도|[3009. 네 번째 점](https://www.acmicpc.net/problem/3009) <br>[15894. 수학은 체육과목입니다](https://www.acmicpc.net/problem/15894) <br>[9063. 대지](https://www.acmicpc.net/problem/9063) <br>[10101. 삼각형 외우기](https://www.acmicpc.net/problem/10101) <br>[5073. 삼각형과 세 변](https://www.acmicpc.net/problem/5073) <br>[14215. 세 막대](https://www.acmicpc.net/problem/14215) <br>[24262. 알고리즘 수업-알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) <br>[24263. 알고리즘 수업-알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)||
+|230906 (수)|BOJ/다이나믹 프로그래밍|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463) <br>[10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844) <br>[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)||
+||BOJ/브루트 포스 <br>BOJ/정렬|[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) <br>[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436) <br>[2839. 설탕배달](https://www.acmicpc.net/problem/2839) <br>[2750. 수 정렬하기](https://www.acmicpc.net/problem/2750) <br>[2587. 대표값2](https://www.acmicpc.net/problem/2587) <br>[25305. 커트라인](https://www.acmicpc.net/problem/25305) <br>[2751. 수 정렬하기 2](https://www.acmicpc.net/problem/2751) <br>[10989. 수 정렬하기 3](https://www.acmicpc.net/problem/10989) <br>||
 
 <br> <br>
 
@@ -27,12 +29,17 @@
 ## 📌 스터디 규칙
 
 #### 📑문제 풀이
-1. SW Expert Academy problem box 복습 + 입문 문제 8개 
+<!-- 1. SW Expert Academy problem box 복습 + 입문 문제 8개  -->
+1. 백준 알고리즘(중급+기초) 3문제 + 단계별로 풀어보기 8문제
     - 전부 못해도 다음날이 되기 전에 commit 하기 
     - 1문제 당 30분~ 1시간까지 고민하기
 2. 깃허브에 Pull Request로 코드 리뷰
     - 월요일까지 리뷰 쓰기 
 3. 코드 리뷰 받은 것 보고 확인하기
+
++) 추가!
+일주일간 프로그래머스 코딩테스트 연습 문제 중 1문제 풀어보기 
+(못 풀겠다면 읽어만 와도 OK~)
 
 #### 🔍진행방식
 |요일||
@@ -125,11 +132,11 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ/기하:직사각형과 삼각형 <br>BOJ/시간 복잡도|[3009. 네 번째 점](https://www.acmicpc.net/problem/3009) <br>[15894. 수학은 체육과목입니다](https://www.acmicpc.net/problem/15894) <br>[9063. 대지](https://www.acmicpc.net/problem/9063) <br>[10101. 삼각형 외우기](https://www.acmicpc.net/problem/10101) <br>[5073. 삼각형과 세 변](https://www.acmicpc.net/problem/5073) <br>[14215. 세 막대](https://www.acmicpc.net/problem/14215) <br>[24262. 알고리즘 수업-알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262) <br>[24263. 알고리즘 수업-알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)||
 |230905 (화)|SEA|||
 ||BOJ/시간 복잡도 <br>BOJ/브루트 포스|[24264. 알고리즘 수업-알고리즘의 수행시간 3](https://www.acmicpc.net/problem/24264) <br>[24265. 알고리즘 수업-알고리즘의 수행시간 4](https://www.acmicpc.net/problem/24265) <br>[24266. 알고리즘 수업-알고리즘의 수행시간 5](https://www.acmicpc.net/problem/24266) <br>[24267. 알고리즘 수업-알고리즘의 수행시간 6](https://www.acmicpc.net/problem/24267) <br>[24313. 알고리즘 수업-점근적 표기1](https://www.acmicpc.net/problem/24313) <br>[2798. 블랙잭](https://www.acmicpc.net/problem/2798) <br>[2231. 분해합](https://www.acmicpc.net/problem/2231) <br>[19532. 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)||
-|230906 (수)|SEA|||
+|230906 (수)|BOJ/다이나믹 프로그래밍|[1463. 1로 만들기](https://www.acmicpc.net/problem/1463) <br>[10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844) <br>[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)||
 ||BOJ/브루트 포스 <br>BOJ/정렬|[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) <br>[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436) <br>[2839. 설탕배달](https://www.acmicpc.net/problem/2839) <br>[2750. 수 정렬하기](https://www.acmicpc.net/problem/2750) <br>[2587. 대표값2](https://www.acmicpc.net/problem/2587) <br>[25305. 커트라인](https://www.acmicpc.net/problem/25305) <br>[2751. 수 정렬하기 2](https://www.acmicpc.net/problem/2751) <br>[10989. 수 정렬하기 3](https://www.acmicpc.net/problem/10989) <br>||
-|230907 (목)|SEA|||
+|230907 (목)|BOJ/다이나믹 프로그래밍|[11052. 카드 구매하기](https://www.acmicpc.net/problem/11052) <br>[11055. 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) <br>[11722. 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)||
 ||BOJ/정렬 <br>BOJ/집합과 맵|[1427. 소트인사이드](https://www.acmicpc.net/problem/1427) <br>[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650) <br>[11651. 좌표 정렬하기 2](https://www.acmicpc.net/problem/11650) <br>[1181. 단어 정렬](https://www.acmicpc.net/problem/1181) <br>[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814) <br>[18870. 좌표 압축](https://www.acmicpc.net/problem/18870) <br>[10815. 숫자 카드](https://www.acmicpc.net/problem/10815) <br>[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)||
-|230908 (금)|SEA|||
+|230908 (금)|BOJ/다이나믹 프로그래밍|[2133. 타일채우기](https://www.acmicpc.net/problem/2133) <br>[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) <br>[2225. 합분해](https://www.acmicpc.net/problem/2225) ||
 ||BOJ/집합과 맵 <br>BOJ/약수, 배수와 소수 2|[7785. 회사에 있는 사람](https://www.acmicpc.net/problem/7785) <br>[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br>[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816) <br>[1764. 듣보잡](https://www.acmicpc.net/problem/1764) <br>[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269) <br>[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) <br>[1934. 최소공배수](https://www.acmicpc.net/problem/1934) <br>[13241. 최소공배수](https://www.acmicpc.net/problem/13241)||
 
 

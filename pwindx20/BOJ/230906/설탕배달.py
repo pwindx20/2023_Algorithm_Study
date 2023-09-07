@@ -4,8 +4,14 @@
 
 N = int(input())
 answer =0
-answer += N//5
-etc = N%5
-if etc%3 !=0:
-    print(-1)
-else: print(answer+etc//3)
+if N%5==0:
+    answer = N//5
+elif N%3==0:
+    answer = N//3
+else:
+    etc = N%5
+    if etc%3 !=0:
+        answer = -1
+    else:
+        answer = N//5+etc//3
+print(answer)

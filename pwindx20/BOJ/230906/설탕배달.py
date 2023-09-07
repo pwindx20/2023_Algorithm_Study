@@ -3,15 +3,12 @@
 # 출력: 최대한 적은 봉지 , 정확히 N킬로그램을 만들 수 없다면 -1을 출력한다.
 
 N = int(input())
-answer =0
-if N%5==0:
-    answer = N//5
-elif N%3==0:
-    answer = N//3
-else:
-    etc = N%5
-    if etc%3 !=0:
-        answer = -1
-    else:
-        answer = N//5+etc//3
-print(answer)
+num1 = N//5
+num2 = N//3
+cnt = 100000
+for i in range(num1+1):
+    for j in range(num2+1):
+        if 5*i + 3*j == N:
+            if cnt > i+j:
+                cnt = i+j
+print(cnt) if cnt !=100000 else print(-1) 

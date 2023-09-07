@@ -7,3 +7,4 @@ lst.sort()
 for i in range(N):
     lst[i][0], lst[i][1] = lst[i][1], lst[i][0]
     print(*lst[i])
+

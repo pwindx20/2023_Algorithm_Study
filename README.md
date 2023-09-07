@@ -10,8 +10,9 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230907 (목)|BOJ/다이나믹 프로그래밍|[11052. 카드 구매하기](https://www.acmicpc.net/problem/11052) <br>[11055. 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) <br>[11722. 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)||
-||BOJ/정렬 <br>BOJ/집합과 맵|[1427. 소트인사이드](https://www.acmicpc.net/problem/1427) <br>[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650) <br>[11651. 좌표 정렬하기 2](https://www.acmicpc.net/problem/11650) <br>[1181. 단어 정렬](https://www.acmicpc.net/problem/1181) <br>[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814) <br>[18870. 좌표 압축](https://www.acmicpc.net/problem/18870) <br>[10815. 숫자 카드](https://www.acmicpc.net/problem/10815) <br>[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)||
+|230908 (금)|BOJ/다이나믹 프로그래밍|[2133. 타일채우기](https://www.acmicpc.net/problem/2133) <br>[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) <br>[2225. 합분해](https://www.acmicpc.net/problem/2225) ||
+||BOJ/집합과 맵 <br>BOJ/약수, 배수와 소수 2|[7785. 회사에 있는 사람](https://www.acmicpc.net/problem/7785) <br>[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br>[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816) <br>[1764. 듣보잡](https://www.acmicpc.net/problem/1764) <br>[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269) <br>[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) <br>[1934. 최소공배수](https://www.acmicpc.net/problem/1934) <br>[13241. 최소공배수](https://www.acmicpc.net/problem/13241)||
+
 
 <br> <br>
 

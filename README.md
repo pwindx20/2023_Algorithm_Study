@@ -5,13 +5,13 @@
 - 언어: 파이썬
 <br><br>
 ## 👾이번 주 도전과제
-| PGS / lv.2 | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
+| PGS / lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230908 (금)|BOJ/다이나믹 프로그래밍|[2133. 타일채우기](https://www.acmicpc.net/problem/2133) <br>[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) <br>[2225. 합분해](https://www.acmicpc.net/problem/2225) ||
-||BOJ/집합과 맵 <br>BOJ/약수, 배수와 소수 2|[7785. 회사에 있는 사람](https://www.acmicpc.net/problem/7785) <br>[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br>[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816) <br>[1764. 듣보잡](https://www.acmicpc.net/problem/1764) <br>[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269) <br>[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) <br>[1934. 최소공배수](https://www.acmicpc.net/problem/1934) <br>[13241. 최소공배수](https://www.acmicpc.net/problem/13241)||
+|230904 (월)||||
+||BOJ/약수, 배수와 소수 2|[1735. 분수 합](https://www.acmicpc.net/problem/1735) <br>[2485. 가로수](https://www.acmicpc.net/problem/2485) <br>[4134. 다음 소수](https://www.acmicpc.net/problem/4134) <br>[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)||
 
 
 <br> <br>
@@ -31,7 +31,7 @@
 
 #### 📑문제 풀이
 <!-- 1. SW Expert Academy problem box 복습 + 입문 문제 8개  -->
-1. 백준 알고리즘(중급+기초) 3문제 + 단계별로 풀어보기 8문제
+1. <!--백준 알고리즘(중급+기초) 3문제 +--> 단계별로 풀어보기 4~5문제
     - 전부 못해도 다음날이 되기 전에 commit 하기 
     - 1문제 당 30분~ 1시간까지 고민하기
 2. 깃허브에 Pull Request로 코드 리뷰
@@ -126,6 +126,25 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 ## 📅 일정표
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
+#### 🔥5주차🔥 
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230904 (월)||||
+||BOJ/약수, 배수와 소수 2|[1735. 분수 합](https://www.acmicpc.net/problem/1735) <br>[2485. 가로수](https://www.acmicpc.net/problem/2485) <br>[4134. 다음 소수](https://www.acmicpc.net/problem/4134) <br>[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)||
+|230905 (화)||||
+||BOJ/약수, 배수와 소수 2 <br>BOJ/스택, 큐, 덱|[4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948) <br>[17103. 골드바흐 파티션](https://www.acmicpc.net/problem/17103) <br>[13909. 창문 닫기](https://www.acmicpc.net/problem/13909) <br>[27278. 스택2](https://www.acmicpc.net/problem/28278) <br>[10773. 제로](https://www.acmicpc.net/problem/10773)||
+|230906 (수)||||
+||BOJ/|[9012. 괄호](https://www.acmicpc.net/problem/9012) <br>[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949) <br>[12789. 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) <br>[18258. 큐2](https://www.acmicpc.net/problem/18258)||
+|230907 (목)||||
+||BOJ/|[2164. 카드2](https://www.acmicpc.net/problem/2164) <br>[11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) <br>[28279. 덱2](https://www.acmicpc.net/problem/28279) <br>[2346. 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)||
+|230908 (금)||||
+||BOJ|[24511. queuestack](https://www.acmicpc.net/problem/24511)||
+
+
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
 #### 🔥4주차🔥 
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
@@ -140,11 +159,7 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 |230908 (금)|BOJ/다이나믹 프로그래밍|[2133. 타일채우기](https://www.acmicpc.net/problem/2133) <br>[15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) <br>[2225. 합분해](https://www.acmicpc.net/problem/2225) ||
 ||BOJ/집합과 맵 <br>BOJ/약수, 배수와 소수 2|[7785. 회사에 있는 사람](https://www.acmicpc.net/problem/7785) <br>[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br>[10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816) <br>[1764. 듣보잡](https://www.acmicpc.net/problem/1764) <br>[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269) <br>[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) <br>[1934. 최소공배수](https://www.acmicpc.net/problem/1934) <br>[13241. 최소공배수](https://www.acmicpc.net/problem/13241)||
 
-
-<br><br>
-
-<details>
-<summary> 더보기 </summary>
+<br>
 
 #### 🔥3주차🔥 
 |날짜|폴더명|문제|진행현황|

@@ -10,3 +10,4 @@ for _ in range(K):
     else:
         ST.pop()
 print(sum(ST))
+

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34d383cd-f531-4a01-8860-1537c8e62d90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/10926.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/18108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/A%B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/A+B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/A-B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/AxB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/Hello_World.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/개.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/고양이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/곱셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/꼬마정민.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/나머지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/두수비교하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/시험성적.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230816/윤년.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/A+B-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/구구단.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/사분면고르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/알람시계.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/영수증.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/오븐시계.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/주사위세개.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230817/합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/A+B-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/A+B-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/A+B-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/A+B-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/별찍기-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/별찍기-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/빠른A+B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230818/코딩은체육과목입니다.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230821/경비원.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230821/수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230822/색종이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230822/줄세우기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230815/Forth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230815/계산기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230815/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230817/계산기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230817/배열최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230817/자기방으로돌아가기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230817/장훈이의높은선반.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230817/토너먼트카드게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230818/파리퇴치3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230818/피자굽기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230818/회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230822/subtree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230822/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230822/중위순회.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pwindx20/SEA/230822/청소시키기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/1998년생인 내가 태국에서는 2541년생.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/A%B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/A+B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/A-B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/AxB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/Hello World.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/물음표 물음표 느낌표.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230815/사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/개.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/고양이.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/곱셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/꼬마 정민.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/나머지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/두 수 비교하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/시험 성적.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230816/윤년.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/A+B-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/구구단.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/사분면 고르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/알람 시계.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/영수증.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/오븐 시계.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/주사위 세개.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230817/합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/A+B-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/A+B-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/A+B-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/A+B-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/별찍기-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/별찍기-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/빠른 A+B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230818/코딩은 체육과목 입니다.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/X보다 작은 수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/개수세기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/공 넣기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/공바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/과제 안 내신 분.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/나머지.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/최댓값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/BOJ/230819/최소, 최대.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230815/Forth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230815/계산기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230815/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230817/계산기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230817/배열 최소 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230817/자기 방으로 돌아가기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230817/장훈이의 높은 선반.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230817/토너먼트 카드게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/암호생성기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/진기의 최고급 붕어빵.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/파리퇴치3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/피자굽기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../230910/1463_1로만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../230910/1463_1로만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10773_제로.py" beforeDir="false" afterPath="$PROJECT_DIR$/10773_제로.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2VInjC6uuOobanzDdzy5HfJjve0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.28278_스택2">
+    <configuration name="10773_제로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="230913" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10773_제로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="28278_스택2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="230913" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28278_스택2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="230913" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.28278_스택2" />
+        <item itemvalue="Python.10773_제로" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d383cd-f531-4a01-8860-1537c8e62d90" name="Changes" comment="" />
+      <created>1694532594658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694532594658</updated>
+    </task>
+    <servers />
+  </component>
+</project>

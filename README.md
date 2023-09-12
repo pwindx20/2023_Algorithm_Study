@@ -10,8 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230904 (월)||||
-||BOJ/약수, 배수와 소수 2|[1735. 분수 합](https://www.acmicpc.net/problem/1735) <br>[2485. 가로수](https://www.acmicpc.net/problem/2485) <br>[4134. 다음 소수](https://www.acmicpc.net/problem/4134) <br>[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)||
+|230905 (화)||||
+||BOJ/약수, 배수와 소수 2 <br>BOJ/스택, 큐, 덱|[4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948) <br>[17103. 골드바흐 파티션](https://www.acmicpc.net/problem/17103) <br>[13909. 창문 닫기](https://www.acmicpc.net/problem/13909) <br>[27278. 스택2](https://www.acmicpc.net/problem/28278) <br>[10773. 제로](https://www.acmicpc.net/problem/10773)||
 
 
 <br> <br>

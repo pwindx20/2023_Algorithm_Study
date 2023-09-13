@@ -10,8 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230905 (화)||||
-||BOJ/약수, 배수와 소수 2 <br>BOJ/스택, 큐, 덱|[4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948) <br>[17103. 골드바흐 파티션](https://www.acmicpc.net/problem/17103) <br>[13909. 창문 닫기](https://www.acmicpc.net/problem/13909) <br>[27278. 스택2](https://www.acmicpc.net/problem/28278) <br>[10773. 제로](https://www.acmicpc.net/problem/10773)||
+|230906 (수)||||
+||BOJ/|[9012. 괄호](https://www.acmicpc.net/problem/9012) <br>[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949) <br>[12789. 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) <br>[18258. 큐2](https://www.acmicpc.net/problem/18258)||
 
 
 <br> <br>

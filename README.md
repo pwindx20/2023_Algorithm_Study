@@ -10,8 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230907 (목)||||
-||BOJ/스택, 큐, 덱|[2164. 카드2](https://www.acmicpc.net/problem/2164) <br>[11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) <br>[28279. 덱2](https://www.acmicpc.net/problem/28279) <br>[2346. 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)||
+|230908 (금)||||
+||BOJ/스택, 큐, 덱|[24511. queuestack](https://www.acmicpc.net/problem/24511)|(단계별 문제풀기 끝~!)|
 
 
 <br> <br>

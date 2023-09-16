@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d383cd-f531-4a01-8860-1537c8e62d90" name="Changes" comment="">
+    <list default="true" id="98e506bf-0f0e-4b7f-8efa-0b424c0e39b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/9012_괄호.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/10926.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/18108.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/A%B.py" beforeDir="false" />
@@ -111,7 +112,9 @@
       <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/피자굽기.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/회전.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../230910/1463_1로만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../230910/1463_1로만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10773_제로.py" beforeDir="false" afterPath="$PROJECT_DIR$/10773_제로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10773_제로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28278_스택2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +131,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="2VInjC6uuOobanzDdzy5HfJjve0" />
+  <component name="ProjectId" id="2VU7SpTD6F2UEuf37kbPYsNywqF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -143,8 +146,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.28278_스택2">
-    <configuration name="10773_제로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="9012_괄호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="230913" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,49 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10773_제로.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="28278_스택2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="230913" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28278_스택2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="230913" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9012_괄호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,19 +170,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.28278_스택2" />
-        <item itemvalue="Python.10773_제로" />
+        <item itemvalue="Python.9012_괄호" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34d383cd-f531-4a01-8860-1537c8e62d90" name="Changes" comment="" />
-      <created>1694532594658</created>
+      <changelist id="98e506bf-0f0e-4b7f-8efa-0b424c0e39b2" name="Changes" comment="" />
+      <created>1694878809275</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694532594658</updated>
+      <updated>1694878809275</updated>
     </task>
     <servers />
   </component>

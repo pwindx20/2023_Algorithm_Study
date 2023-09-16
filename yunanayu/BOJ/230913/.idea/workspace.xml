@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e506bf-0f0e-4b7f-8efa-0b424c0e39b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/9012_괄호.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/10926.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/18108.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../pwindx20/BOJ/230815/A%B.py" beforeDir="false" />
@@ -113,8 +112,7 @@
       <change beforePath="$PROJECT_DIR$/../../../wiese0630/SEA/230818/회전.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../230910/1463_1로만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../230910/1463_1로만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10773_제로.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/28278_스택2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4949_균형.py" beforeDir="false" afterPath="$PROJECT_DIR$/4949_균형.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +144,28 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.4949_균형">
+    <configuration name="4949_균형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="230913" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4949_균형.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="9012_괄호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="230913" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4949_균형" />
         <item itemvalue="Python.9012_괄호" />
       </list>
     </recent_temporary>

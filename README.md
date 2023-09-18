@@ -129,12 +129,12 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 |-|-|-|-|
 |230918 (월)||||
 ||BOJ/브루트 포스|[3085. 사탕 게임](https://www.acmicpc.net/problem/3085) <br> [1476. 날짜 계산](https://www.acmicpc.net/problem/1476) <br>[1107. 리모컨](https://www.acmicpc.net/problem/1107) [9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)||
-|230919 (화)||||
+|230919 (화)|SEA/분할정복|[5207.[파이썬 S/W 문제해결 구현] 4일차 - 이진 탐색](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN4FXn6LGgDFASV&probBoxId=AYqmKjm6a3sDFAV6&type=USER&problemBoxTitle=230918+%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5&problemBoxCnt=3) <br>[5205. [파이썬 S/W 문제해결 구현] 4일차 - 퀵 정렬](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN4D336LCcDFASV&probBoxId=AYqmKjm6a3sDFAV6&type=USER&problemBoxTitle=230918+%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5&problemBoxCnt=3) <br>[5204. [파이썬 S/W 문제해결 구현] 4일차 - 병합 정렬](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN309TaKicDFASV&probBoxId=AYqmKjm6a3sDFAV6&type=USER&problemBoxTitle=230918+%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5&problemBoxCnt=3)||
 ||BOJ/브루트 포스|[1748. 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) <br>[6064. 카잉 달력](https://www.acmicpc.net/problem/6064) <br>[14500. 테트로미노](https://www.acmicpc.net/problem/14500) <br>[10972. 다음 순열](https://www.acmicpc.net/problem/10972)||
 |230920 (수)||||
 ||BOJ/브루트 포스|[10973. 이전 순열](https://www.acmicpc.net/problem/10973) <br>[10974. 모든 순열](https://www.acmicpc.net/problem/10974) <br>[2529. 부등호](https://www.acmicpc.net/problem/2529) <br>[15649. N과 M(1)](https://www.acmicpc.net/problem/15649)||
 |230921 (목)||||
-||BOJ/브루트 포스|[15650. N과 M(2)](https://www.acmicpc.net/problem/15650) <br>[15651. N과 M(3)](https://www.acmicpc.net/problem/15651) <br>[15652. N과 M(4)]https://www.acmicpc.net/problem/15652) <br>[15653. N과 M(5)](https://www.acmicpc.net/problem/15654)||
+||BOJ/브루트 포스|[15650. N과 M(2)](https://www.acmicpc.net/problem/15650) <br>[15651. N과 M(3)](https://www.acmicpc.net/problem/15651) <br>[15652. N과 M(4)](https://www.acmicpc.net/problem/15652) <br>[15653. N과 M(5)](https://www.acmicpc.net/problem/15654)||
 |230922 (금)||||
 ||BOJ/브루트 포스|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971) <br>[6603. 로또](https://www.acmicpc.net/problem/6603) <br>[14501. 퇴사](https://www.acmicpc.net/problem/14501) <br>[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)||
 

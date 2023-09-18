@@ -10,7 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-
+|230918 (월)||||
+||BOJ/브루트 포스|[3085. 사탕 게임](https://www.acmicpc.net/problem/3085) <br> [1476. 날짜 계산](https://www.acmicpc.net/problem/1476) <br>[1107. 리모컨](https://www.acmicpc.net/problem/1107) [9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)||
 
 <br> <br>
 

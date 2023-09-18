@@ -5,13 +5,11 @@
 - 언어: 파이썬
 <br><br>
 ## 👾이번 주 도전과제
-| PGS / lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+| PGS / lv.1 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
 
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230908 (금)||||
-||BOJ/스택, 큐, 덱|[24511. queuestack](https://www.acmicpc.net/problem/24511)|(단계별 문제풀기 끝~!)|
 
 
 <br> <br>
@@ -126,25 +124,44 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 ## 📅 일정표
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
-#### 🔥5주차🔥 
+#### 🔥6주차🔥 
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230904 (월)||||
-||BOJ/약수, 배수와 소수 2|[1735. 분수 합](https://www.acmicpc.net/problem/1735) <br>[2485. 가로수](https://www.acmicpc.net/problem/2485) <br>[4134. 다음 소수](https://www.acmicpc.net/problem/4134) <br>[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)||
-|230905 (화)||||
-||BOJ/약수, 배수와 소수 2 <br>BOJ/스택, 큐, 덱|[4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948) <br>[17103. 골드바흐 파티션](https://www.acmicpc.net/problem/17103) <br>[13909. 창문 닫기](https://www.acmicpc.net/problem/13909) <br>[27278. 스택2](https://www.acmicpc.net/problem/28278) <br>[10773. 제로](https://www.acmicpc.net/problem/10773)||
-|230906 (수)||||
-||BOJ/스택, 큐, 덱|[9012. 괄호](https://www.acmicpc.net/problem/9012) <br>[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949) <br>[12789. 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) <br>[18258. 큐2](https://www.acmicpc.net/problem/18258)||
-|230907 (목)||||
-||BOJ/스택, 큐, 덱|[2164. 카드2](https://www.acmicpc.net/problem/2164) <br>[11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) <br>[28279. 덱2](https://www.acmicpc.net/problem/28279) <br>[2346. 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)||
-|230908 (금)||||
-||BOJ/스택, 큐, 덱|[24511. queuestack](https://www.acmicpc.net/problem/24511)||
+|230918 (월)||||
+||BOJ/브루트 포스|[3085. 사탕 게임](https://www.acmicpc.net/problem/3085) <br> [1476. 날짜 계산](https://www.acmicpc.net/problem/1476) <br>[1107. 리모컨](https://www.acmicpc.net/problem/1107) [9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)||
+|230919 (화)||||
+||BOJ/브루트 포스|[1748. 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) <br>[6064. 카잉 달력](https://www.acmicpc.net/problem/6064) <br>[14500. 테트로미노](https://www.acmicpc.net/problem/14500) <br>[10972. 다음 순열](https://www.acmicpc.net/problem/10972)||
+|230920 (수)||||
+||BOJ/브루트 포스|[10973. 이전 순열](https://www.acmicpc.net/problem/10973) <br>[10974. 모든 순열](https://www.acmicpc.net/problem/10974) <br>[2529. 부등호](https://www.acmicpc.net/problem/2529) <br>[15649. N과 M(1)](https://www.acmicpc.net/problem/15649)||
+|230921 (목)||||
+||BOJ/브루트 포스|[15650. N과 M(2)](https://www.acmicpc.net/problem/15650) <br>[15651. N과 M(3)](https://www.acmicpc.net/problem/15651) <br>[15652. N과 M(4)]https://www.acmicpc.net/problem/15652) <br>[15653. N과 M(5)](https://www.acmicpc.net/problem/15654)||
+|230922 (금)||||
+||BOJ/브루트 포스|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971) <br>[6603. 로또](https://www.acmicpc.net/problem/6603) <br>[14501. 퇴사](https://www.acmicpc.net/problem/14501) <br>[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)||
 
 
 <br><br>
 
 <details>
 <summary> 더보기 </summary>
+
+
+#### 🔥5주차🔥 
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230911 (월)||||
+||BOJ/약수, 배수와 소수 2|[1735. 분수 합](https://www.acmicpc.net/problem/1735) <br>[2485. 가로수](https://www.acmicpc.net/problem/2485) <br>[4134. 다음 소수](https://www.acmicpc.net/problem/4134) <br>[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)||
+|230912 (화)||||
+||BOJ/약수, 배수와 소수 2 <br>BOJ/스택, 큐, 덱|[4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948) <br>[17103. 골드바흐 파티션](https://www.acmicpc.net/problem/17103) <br>[13909. 창문 닫기](https://www.acmicpc.net/problem/13909) <br>[27278. 스택2](https://www.acmicpc.net/problem/28278) <br>[10773. 제로](https://www.acmicpc.net/problem/10773)||
+|230913 (수)||||
+||BOJ/스택, 큐, 덱|[9012. 괄호](https://www.acmicpc.net/problem/9012) <br>[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949) <br>[12789. 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) <br>[18258. 큐2](https://www.acmicpc.net/problem/18258)||
+|230914 (목)||||
+||BOJ/스택, 큐, 덱|[2164. 카드2](https://www.acmicpc.net/problem/2164) <br>[11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866) <br>[28279. 덱2](https://www.acmicpc.net/problem/28279) <br>[2346. 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)||
+|230915 (금)||||
+||BOJ/스택, 큐, 덱|[24511. queuestack](https://www.acmicpc.net/problem/24511)||
+
+## 👾이번 주 도전과제
+| PGS / lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+
 #### 🔥4주차🔥 
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|

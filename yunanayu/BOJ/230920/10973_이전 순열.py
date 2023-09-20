@@ -28,7 +28,7 @@ for i in range(len(lst)):
 # print(lst)
 result = [-1] * N
 visited = [False] * N
-# ans = []
+ans = []
 per(0)
 print(per(0))
 # print(ans)

@@ -145,6 +145,39 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 <details>
 <summary> 더보기 </summary>
 
+#### 🔥7주차🔥
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230828 (월)|SEA/문제풀이|[7465. 창용 마을 무리의 개수](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWngfZVa9XwDFAQU&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV7I5fgqEogDFAXB&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1952. [모의 SW 역량테스트] 수영장](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1795. 인수의 생일 파티](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1486. 장훈이의 높은 선반](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV2b7Yf6ABcBBASw&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5)||
+||BOJ/|||
+|230829 (화)|SEA|||
+||BOJ|||
+|230830 (수)|SEA|||
+||BOJ|||
+|230831 (목)|SEA|||
+||BOJ|||
+|230901 (금)|SEA|||
+||BOJ|||
+
+
+
+#### 🔥6주차🔥 
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|230918 (월)||||
+||BOJ/브루트 포스|[3085. 사탕 게임](https://www.acmicpc.net/problem/3085) <br> [1476. 날짜 계산](https://www.acmicpc.net/problem/1476) <br>[1107. 리모컨](https://www.acmicpc.net/problem/1107) <br>[9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)||
+|230919 (화)|SEA/분할정복|[5207.[파이썬 S/W 문제해결 구현] 4일차 - 이진 탐색](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN4FXn6LGgDFASV&probBoxId=AYqmKjm6a3sDFAV6&type=USER&problemBoxTitle=230918+%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5&problemBoxCnt=3) <br>[5205. [파이썬 S/W 문제해결 구현] 4일차 - 퀵 정렬](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN4D336LCcDFASV&probBoxId=AYqmKjm6a3sDFAV6&type=USER&problemBoxTitle=230918+%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5&problemBoxCnt=3) <br>[5204. [파이썬 S/W 문제해결 구현] 4일차 - 병합 정렬](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN309TaKicDFASV&probBoxId=AYqmKjm6a3sDFAV6&type=USER&problemBoxTitle=230918+%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5&problemBoxCnt=3)||
+||BOJ/브루트 포스|[1748. 수 이어쓰기 1](https://www.acmicpc.net/problem/1748) <br>[6064. 카잉 달력](https://www.acmicpc.net/problem/6064) <br>[14500. 테트로미노](https://www.acmicpc.net/problem/14500) <br>[10972. 다음 순열](https://www.acmicpc.net/problem/10972)||
+|230920 (수)|SEA/백트래킹|[5209. [파이썬 S/W 문제해결 구현] 5일차- 최소 생산 비용](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN4GqCaLJwDFASV&probBoxId=AYqq9GS6yWMDFAV6&type=USER&problemBoxTitle=230919+%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9&problemBoxCnt=3) <br>[5208. [파이썬 S/W 문제해결 구현] 5일차 - 전기버스2](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYN4F8OaLHYDFASV&probBoxId=AYqq9GS6yWMDFAV6&type=USER&problemBoxTitle=230919+%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9&problemBoxCnt=3) <br>[1865. 동철이의 일 분배](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5LuHfqDz8DFAXc&probBoxId=AYqq9GS6yWMDFAV6&type=PROBLEM&problemBoxTitle=230919+%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9&problemBoxCnt=3)||
+||BOJ/브루트 포스|[10973. 이전 순열](https://www.acmicpc.net/problem/10973) <br>[10974. 모든 순열](https://www.acmicpc.net/problem/10974) <br>[2529. 부등호](https://www.acmicpc.net/problem/2529) <br>[15649. N과 M(1)](https://www.acmicpc.net/problem/15649)||
+|230921 (목)|SEA/그래프1|[5248. [파이썬 S/W 문제해결 구현] 6일차 - 그룹 나누기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYOB0_M6BE4DFATW&probBoxId=AYqwOoaaI7EDFAV6&type=USER&problemBoxTitle=230920+%EA%B7%B8%EB%9E%98%ED%94%841&problemBoxCnt=4) <br> [5247. [파이썬 S/W 문제해결 구현] 6일차 - 연산](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYOB0N6aBCEDFATW&probBoxId=AYqwOoaaI7EDFAV6&type=USER&problemBoxTitle=230920+%EA%B7%B8%EB%9E%98%ED%94%841&problemBoxCnt=4)<br> [1238. [S/W 문제해결 기본] 10일차 - Contact](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV15B1cKAKwCFAYD&probBoxId=AYqwOoaaI7EDFAV6&type=PROBLEM&problemBoxTitle=230920+%EA%B7%B8%EB%9E%98%ED%94%841&problemBoxCnt=4)||
+||BOJ/브루트 포스|[15650. N과 M(2)](https://www.acmicpc.net/problem/15650) <br>[15651. N과 M(3)](https://www.acmicpc.net/problem/15651) <br>[15652. N과 M(4)](https://www.acmicpc.net/problem/15652) <br>[15653. N과 M(5)](https://www.acmicpc.net/problem/15654)||
+|230922 (금)|SEA/그래프2|[5251. [파이썬 S/W 문제해결 구현] 7일차 - 최소 이동 거리](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYOCB6lqBkgDFATW&probBoxId=AYq1bwuqRZ0DFAV6&type=USER&problemBoxTitle=230921+%EA%B7%B8%EB%9E%98%ED%94%842&problemBoxCnt=5) <br>[5250. [파이썬 S/W 문제해결 구현] 7일차 - 최소 비용](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYOCBUw6BjwDFATW&probBoxId=AYq1bwuqRZ0DFAV6&type=USER&problemBoxTitle=230921+%EA%B7%B8%EB%9E%98%ED%94%842&problemBoxCnt=5) <br>[5249. [파이썬 S/W 문제해결 구현] 7일차 - 최소 신장 트리](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AYOCAqDaBikDFATW&probBoxId=AYq1bwuqRZ0DFAV6&type=USER&problemBoxTitle=230921+%EA%B7%B8%EB%9E%98%ED%94%842&problemBoxCnt=5) <br>[[S/W 문제해결 응용] 4일차 - 하나로](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV15StKqAQkCFAYD&probBoxId=AYq1bwuqRZ0DFAV6&type=PROBLEM&problemBoxTitle=230921+%EA%B7%B8%EB%9E%98%ED%94%842&problemBoxCnt=5) <br>[[S/W 문제해결 응용] 4일차 = 보급로](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV15QRX6APsCFAYD&probBoxId=AYq1bwuqRZ0DFAV6&type=PROBLEM&problemBoxTitle=230921+%EA%B7%B8%EB%9E%98%ED%94%842&problemBoxCnt=5) ||
+||BOJ/브루트 포스|[10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971) <br>[6603. 로또](https://www.acmicpc.net/problem/6603) <br>[14501. 퇴사](https://www.acmicpc.net/problem/14501) <br>[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)||
+
+## 👾이번 주 도전과제
+| PGS / lv.1 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+<br>
 
 #### 🔥5주차🔥 
 |날짜|폴더명|문제|진행현황|
@@ -162,6 +195,8 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 ## 👾이번 주 도전과제
 | PGS / lv.1 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+
+<br>
 
 #### 🔥4주차🔥 
 |날짜|폴더명|문제|진행현황|

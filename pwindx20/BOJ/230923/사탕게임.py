@@ -52,7 +52,7 @@ def solve(pos1, pos2):
 
     for i in range(N):
         # 열고정
-        if arr[i][y] ==c2:
+        if arr[i][ny] ==c2:
             c2_cnt +=1
         else:
             if max_candy<c2_cnt:

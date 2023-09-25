@@ -1,11 +1,12 @@
-# 15649
+# N과 M(1)
 # 입력: N, M
 # 출력: 사전순으로 출력
 def solve(k):
+    
     if k == M:
         print(*result)
         return
-    for i in range(1, N+1):
+    for i in range(k+1,N-(M-k)+2):
         if not used[i]:
            result[k] = i
            used[i] = True 

@@ -10,9 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230925 (월)|SEA/문제풀이|[7465. 창용 마을 무리의 개수](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AWngfZVa9XwDFAQU&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV7I5fgqEogDFAXB&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1952. [모의 SW 역량테스트] 수영장](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1795. 인수의 생일 파티](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV5PpFQaAQMDFAUq&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5) <br>[1486. 장훈이의 높은 선반](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYmp5YXqNBsDFAUe&contestProbId=AV2b7Yf6ABcBBASw&probBoxId=AYq6KZZK2PEDFAV6&type=PROBLEM&problemBoxTitle=230922+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&problemBoxCnt=5)||
-||BOJ/그래프|[13023. ABCDE](https://www.acmicpc.net/problem/13023) <br>[4963. 섬의 개수](https://www.acmicpc.net/problem/4963) <br>[2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667) <br>[7562. 나이트의 이동](https://www.acmicpc.net/problem/7562)||
-
+|230926 (화)||||
+||BOJ/그래프 <br>BOJ/BFS|[16947. 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) <br>[2178. 미로 탐색](https://www.acmicpc.net/problem/2178) <br>[11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br>[1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)||
 <br> <br>
 
 

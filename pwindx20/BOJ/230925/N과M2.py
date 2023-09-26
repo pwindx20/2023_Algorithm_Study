@@ -1,19 +1,18 @@
-# N과 M(1)
+# 15650
 # 입력: N, M
-# 출력: 사전순으로 출력
-def solve(k):
-    
-    if k == M:
-        print(*result)
+# 출력: 중복없이 M개를 고른 수열, 오름차순
+def solve(n, r, ans):
+    if n==len(nums):
+        if len(ans)==r:
+            print(*ans)
         return
-    for i in range(k+1,N-(M-k)+2):
-        if not used[i]:
-           result[k] = i
-           used[i] = True 
-           solve(k+1)
-           used[i] = False
-            
+    ans.append(nums[n])
+    solve(n+1, r, ans)
+    ans.pop()
+    solve(n+1, r, ans)
+    
 N, M = map(int,input().split())
-used = [True]+[False]*N
-result = [0]*M
-solve(0)
+nums = list(range(1, N+1))
+solve(0, M, [])
+
+# 조합 어렵네 .... 

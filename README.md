@@ -10,8 +10,9 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230926 (화)||||
-||BOJ/그래프 <br>BOJ/BFS|[16947. 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) <br>[2178. 미로 탐색](https://www.acmicpc.net/problem/2178) <br>[11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br>[1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)||
+|230927 (수)||||
+||BOJ/그래프 <br>BOJ/트리|[7576. 토마토](https://www.acmicpc.net/problem/7576) <br>[1260. DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>[11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) <br>[1991. 트리 순회](https://www.acmicpc.net/problem/1991)||
+
 <br> <br>
 
 

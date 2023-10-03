@@ -13,8 +13,6 @@ def sol(N):
         return int(result)
 
 
-
-
 N = list(input())
 N.sort()
 N.reverse()

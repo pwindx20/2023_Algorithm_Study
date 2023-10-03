@@ -5,13 +5,12 @@
 - 언어: 파이썬
 <br><br>
 ## 👾이번 주 도전과제
-| PGS / lv.1 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+| PGS / lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|230927 (수)||||
-||BOJ/그래프 <br>BOJ/트리|[7576. 토마토](https://www.acmicpc.net/problem/7576) <br>[1260. DFS와 BFS](https://www.acmicpc.net/problem/1260) <br>[11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) <br>[1991. 트리 순회](https://www.acmicpc.net/problem/1991)||
+
 
 <br> <br>
 
@@ -125,6 +124,30 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 ## 📅 일정표
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
+
+#### 🔥8주차🔥
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|231002 (월)|SEA|||
+||BOJ|||
+|231003 (화)|SEA|||
+||BOJ/BFS <br>BOJ/그리디|[13913. 숨바꼭질4](https://www.acmicpc.net/problem/13913) <br>[1931. 회의실 배정](https://www.acmicpc.net/problem/1931) <br>[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541) <br>[10610. 30](https://www.acmicpc.net/problem/10610)||
+|231004 (수)|SEA|||
+||BOJ/그리디|[11047. 동전 0](https://www.acmicpc.net/problem/11047) <br>[1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285) <br>[2875. 대회 or 인턴](https://www.acmicpc.net/problem/2875)<br>[1080. 행렬](https://www.acmicpc.net/problem/1080)||
+|231005 (목)|SEA|||
+||BOJ/분할 정복 <br> BOJ/정렬|[10815. 숫자카드](https://www.acmicpc.net/problem/10815)<br> [1780. 종이의 개수](https://www.acmicpc.net/problem/1780) <br>[1074. Z](https://www.acmicpc.net/problem/1074) <br>[11651. 좌표 정렬하기2](https://www.acmicpc.net/problem/11651)||
+|231006 (금)|SEA|||
+||BOJ/이분 탐색|[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654) <br>[2343. 기타 레슨](https://www.acmicpc.net/problem/2343) <br>[1300. K번째 수](https://www.acmicpc.net/problem/1300)<br>[11664. 선분과 점](https://www.acmicpc.net/problem/11664)||
+
+
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
+
+## 👾이번 주 도전과제
+| PGS / lv.1 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+
 #### 🔥7주차🔥
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
@@ -138,13 +161,6 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ/그래프 <br>BOJ/브루트포스|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707) <br>[11723. 집합](https://www.acmicpc.net/problem/11723) <br>[1182. 부분수열의 합](https://www.acmicpc.net/problem/1182) <br>[15661. 링크와 스타트](https://www.acmicpc.net/problem/15661)||
 |230929 (금)||||
 ||BOJ/그래프 <br>BOJ/브루트포스|[16929. Two Dots](https://www.acmicpc.net/problem/16929) <br>[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889) <br>[10819. 차이를 최대로](https://www.acmicpc.net/problem/10819) <br>[2580. 스도쿠](https://www.acmicpc.net/problem/2580)||
-
-
-<br><br>
-
-<details>
-<summary> 더보기 </summary>
-
 
 
 

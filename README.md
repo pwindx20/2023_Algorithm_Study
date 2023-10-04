@@ -10,7 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-
+|231004 (수)|SEA|||
+||BOJ/그리디|[11047. 동전 0](https://www.acmicpc.net/problem/11047) <br>[1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285) <br>[2875. 대회 or 인턴](https://www.acmicpc.net/problem/2875)<br>[1080. 행렬](https://www.acmicpc.net/problem/1080)||
 
 <br> <br>
 

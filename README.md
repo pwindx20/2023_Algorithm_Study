@@ -10,8 +10,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231005 (목)|SEA|||
-||BOJ/분할 정복 <br> BOJ/정렬|[10815. 숫자카드](https://www.acmicpc.net/problem/10815)<br> [1780. 종이의 개수](https://www.acmicpc.net/problem/1780) <br>[1074. Z](https://www.acmicpc.net/problem/1074) <br>[11651. 좌표 정렬하기2](https://www.acmicpc.net/problem/11651)||
+|231006 (금)|SEA|||
+||BOJ/이분 탐색|[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654) <br>[2343. 기타 레슨](https://www.acmicpc.net/problem/2343) <br>[1300. K번째 수](https://www.acmicpc.net/problem/1300)<br>[11664. 선분과 점](https://www.acmicpc.net/problem/11664)||
 
 <br> <br>
 

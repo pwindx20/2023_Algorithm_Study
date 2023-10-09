@@ -1,6 +1,3 @@
-# import sys
-# sys.stdin = open('input.txt', 'r')
-
 def change(sr,sc):
     for i in range(sr, sr+3):
         for j in range(sc, sc+3):

@@ -4,14 +4,13 @@
 - 문제 사이트: [SW Expert Academy](https://www.swexpertacademy.com), [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr)
 - 언어: 파이썬
 <br><br>
-## 👾이번 주 도전과제
-| PGS / lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+
 
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231006 (금)|SEA|||
-||BOJ/이분 탐색|[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654) <br>[2343. 기타 레슨](https://www.acmicpc.net/problem/2343) <br>[1300. K번째 수](https://www.acmicpc.net/problem/1300)<br>[11664. 선분과 점](https://www.acmicpc.net/problem/11664)||
+|231017 (화)|PGS|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) <br>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)||
+||BOJ/구현|[16918. 봄버맨](https://www.acmicpc.net/problem/16918) <br>[16967. 배열 복원하기](https://www.acmicpc.net/problem/16967)||
 
 <br> <br>
 
@@ -124,7 +123,32 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 
 ## 📅 일정표
+
+#### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
+
+
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|231016 (월)|PGS|||
+||BOJ/|||
+|231017 (화)|PGS|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) <br>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)||
+||BOJ/구현|[16918. 봄버맨](https://www.acmicpc.net/problem/16918) <br>[16967. 배열 복원하기](https://www.acmicpc.net/problem/16967)||
+|231018 (수)|PGS|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br>[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)||
+||BOJ/구현 |[13335. 트럭](https://www.acmicpc.net/problem/13335) <br>[10655. 마라톤1](https://www.acmicpc.net/problem/10655)||
+|231019 (목)|PGS|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) <br>[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)||
+||BOJ/그래프<br>BOJ/브루트포스|[1189. 컴백홈](https://www.acmicpc.net/problem/1189) <br>[18428. 감시 피하기](https://www.acmicpc.net/problem/18428)||
+|231020 (금)|PGS|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) <br>[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)||
+||BOJ/그래프 <br>BOJ/그리디|[17086. 아기상어2](https://www.acmicpc.net/problem/17086) <br>[2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)||
+
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
+
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
+
+## 👾이번 주 도전과제
+| PGS / lv.1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 #### 🔥8주차🔥
 |날짜|폴더명|문제|진행현황|
@@ -139,12 +163,7 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ/분할 정복 <br> BOJ/정렬|[10815. 숫자카드](https://www.acmicpc.net/problem/10815)<br> [1780. 종이의 개수](https://www.acmicpc.net/problem/1780) <br>[1074. Z](https://www.acmicpc.net/problem/1074) <br>[11651. 좌표 정렬하기2](https://www.acmicpc.net/problem/11651)||
 |231006 (금)|SEA|||
 ||BOJ/이분 탐색|[1654. 랜선 자르기](https://www.acmicpc.net/problem/1654) <br>[2343. 기타 레슨](https://www.acmicpc.net/problem/2343) <br>[1300. K번째 수](https://www.acmicpc.net/problem/1300)<br>[11664. 선분과 점](https://www.acmicpc.net/problem/11664)||
-
-
-<br><br>
-
-<details>
-<summary> 더보기 </summary>
+<br>
 
 ## 👾이번 주 도전과제
 | PGS / lv.1 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)

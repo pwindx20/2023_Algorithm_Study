@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231017 (화)|PGS|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) <br>[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)||
-||BOJ/구현|[16918. 봄버맨](https://www.acmicpc.net/problem/16918) <br>[16967. 배열 복원하기](https://www.acmicpc.net/problem/16967)||
+|231018 (수)|PGS|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) <br>[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)||
+||BOJ/구현 |[13335. 트럭](https://www.acmicpc.net/problem/13335) <br>[10655. 마라톤1](https://www.acmicpc.net/problem/10655)||
 
 <br> <br>
 

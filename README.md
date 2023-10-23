@@ -125,7 +125,28 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 #### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
 
+#### 🔥2주차🔥
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|231023 (월)|PGS|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) <br>[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)||
+||BOJ|[2891. 카약과 강풍](https://www.acmicpc.net/problem/2891) <br>[2785. 체인](https://www.acmicpc.net/problem/2785)||
+|231024 (화)|PGS|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) <br>[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)||
+||BOJ|[1802. 종이 접기](https://www.acmicpc.net/problem/1802) <br>[1459. 걷기](https://www.acmicpc.net/problem/1459)||
+|231025 (수)|PGS|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) <br>[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)||
+||BOJ|[2885. 초콜릿 식사](https://www.acmicpc.net/problem/2885) <br>[11501. 주식](https://www.acmicpc.net/problem/11501)||
+|231026 (목)|PGS|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) <br>[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)||
+||BOJ/|[2644. 촌수계산](https://www.acmicpc.net/problem/2644) <br>[2468. 안전 영역](https://www.acmicpc.net/problem/2468)||
+|231027 (금)|PGS|[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br>[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)||
+||BOJ|[10942. 팰린드롬?](https://www.acmicpc.net/problem/10942) <br>[12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)||
 
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
+
+#### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
+
+#### 🔥1주차🔥
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
 |231016 (월)|PGS|||
@@ -139,10 +160,6 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 |231020 (금)|PGS|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) <br>[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)||
 ||BOJ/그래프 <br>BOJ/그리디|[17086. 아기상어2](https://www.acmicpc.net/problem/17086) <br>[2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)||
 
-<br><br>
-
-<details>
-<summary> 더보기 </summary>
 
 #### 1차: SW Expert Academy + 백준 단계별로 풀어보기
 

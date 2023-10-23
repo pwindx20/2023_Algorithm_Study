@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231019 (목)|PGS|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) <br>[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)||
-||BOJ/그래프<br>BOJ/브루트포스|[1189. 컴백홈](https://www.acmicpc.net/problem/1189) <br>[18428. 감시 피하기](https://www.acmicpc.net/problem/18428)||
+|231023 (월)|PGS|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) <br>[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)||
+||BOJ|[2891. 카약과 강풍](https://www.acmicpc.net/problem/2891) <br>[2785. 체인](https://www.acmicpc.net/problem/2785)||
 <br> <br>
 
 

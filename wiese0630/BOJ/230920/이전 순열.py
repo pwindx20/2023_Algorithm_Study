@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+N = int(input())
+perm = list(map(int, input().split()))
+sorted_perm = sorted(perm)
+if perm == sorted_perm:
+    print(-1)
+=======
 # 입력 받기
 N = int(input())
 permutation = list(map(int, input().split()))
@@ -26,3 +33,4 @@ else:
 
     # 결과 출력
     print(" ".join(map(str, permutation)))
+>>>>>>> eb59f5467df51664d25d347e8573b5f881cc5d25

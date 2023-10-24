@@ -9,8 +9,9 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231023 (월)|PGS|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) <br>[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)||
-||BOJ|[2891. 카약과 강풍](https://www.acmicpc.net/problem/2891) <br>[2785. 체인](https://www.acmicpc.net/problem/2785)||
+|231024 (화)|PGS|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) <br>[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)||
+||BOJ|[1802. 종이 접기](https://www.acmicpc.net/problem/1802) <br>[1459. 걷기](https://www.acmicpc.net/problem/1459)||
+
 <br> <br>
 
 

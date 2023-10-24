@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231024 (화)|PGS|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) <br>[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)||
-||BOJ|[1802. 종이 접기](https://www.acmicpc.net/problem/1802) <br>[1459. 걷기](https://www.acmicpc.net/problem/1459)||
+|231025 (수)|PGS|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) <br>[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)||
+||BOJ|[2885. 초콜릿 식사](https://www.acmicpc.net/problem/2885) <br>[11501. 주식](https://www.acmicpc.net/problem/11501)||
 
 <br> <br>
 

@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231025 (수)|PGS|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) <br>[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)||
-||BOJ|[2885. 초콜릿 식사](https://www.acmicpc.net/problem/2885) <br>[11501. 주식](https://www.acmicpc.net/problem/11501)||
+|231026 (목)|PGS|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) <br>[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)||
+||BOJ/|[2644. 촌수계산](https://www.acmicpc.net/problem/2644) <br>[2468. 안전 영역](https://www.acmicpc.net/problem/2468)||
 
 <br> <br>
 

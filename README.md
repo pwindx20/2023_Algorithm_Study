@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231030 (월)|PGS|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) <br>[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)||
-||BOJ|[2659. 십자카드 문제](https://www.acmicpc.net/problem/2659) <br>[2641. 다각형그리기](https://www.acmicpc.net/problem/2641)||
+|231031 (화)|PGS|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) <br>[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)||
+||BOJ|[2615. 오목](https://www.acmicpc.net/problem/2615) <br>[2597. 줄자접기](https://www.acmicpc.net/problem/2597)||
 
 <br> <br>
 

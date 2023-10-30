@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231026 (목)|PGS|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) <br>[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)||
-||BOJ/|[2644. 촌수계산](https://www.acmicpc.net/problem/2644) <br>[2468. 안전 영역](https://www.acmicpc.net/problem/2468)||
+|231030 (월)|PGS|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) <br>[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)||
+||BOJ|[2659. 십자카드 문제](https://www.acmicpc.net/problem/2659) <br>[2641. 다각형그리기](https://www.acmicpc.net/problem/2641)||
 
 <br> <br>
 
@@ -129,6 +129,27 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 #### 🔥2주차🔥
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
+|231030 (월)|PGS|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) <br>[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)||
+||BOJ|[2659. 십자카드 문제](https://www.acmicpc.net/problem/2659) <br>[2641. 다각형그리기](https://www.acmicpc.net/problem/2641)||
+|231031 (화)|PGS|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) <br>[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)||
+||BOJ|[2615. 오목](https://www.acmicpc.net/problem/2615) <br>[2597. 줄자접기](https://www.acmicpc.net/problem/2597)||
+|231101 (수)|PGS|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <br>[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)||
+||BOJ|[1713. 후보 추천하기](https://www.acmicpc.net/problem/1713) <br>[6987. 월드컵](https://www.acmicpc.net/problem/6987)||
+|231102 (목)|PGS|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br>[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)||
+||BOJ|[2548. 대표 자연수](https://www.acmicpc.net/problem/2548) <br>[2512. 예산](https://www.acmicpc.net/problem/2512)||
+|231103 (금)|PGS|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <br>[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)||
+||BOJ|[15787. 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) <br>[5766. 할아버지는 유명해!](https://www.acmicpc.net/problem/5766)||
+
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
+
+#### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
+
+#### 🔥2주차🔥
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
 |231023 (월)|PGS|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) <br>[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)||
 ||BOJ|[2891. 카약과 강풍](https://www.acmicpc.net/problem/2891) <br>[2785. 체인](https://www.acmicpc.net/problem/2785)||
 |231024 (화)|PGS|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) <br>[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)||
@@ -140,12 +161,6 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 |231027 (금)|PGS|[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br>[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)||
 ||BOJ|[10942. 팰린드롬?](https://www.acmicpc.net/problem/10942) <br>[12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)||
 
-<br><br>
-
-<details>
-<summary> 더보기 </summary>
-
-#### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
 
 #### 🔥1주차🔥
 |날짜|폴더명|문제|진행현황|

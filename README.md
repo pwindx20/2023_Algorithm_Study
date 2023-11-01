@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231031 (화)|PGS|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) <br>[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)||
-||BOJ|[2615. 오목](https://www.acmicpc.net/problem/2615) <br>[2597. 줄자접기](https://www.acmicpc.net/problem/2597)||
+|231101 (수)|PGS|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <br>[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)||
+||BOJ|[1713. 후보 추천하기](https://www.acmicpc.net/problem/1713) <br>[6987. 월드컵](https://www.acmicpc.net/problem/6987)||
 
 <br> <br>
 

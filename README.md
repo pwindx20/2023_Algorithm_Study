@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231101 (수)|PGS|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) <br>[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)||
-||BOJ|[1713. 후보 추천하기](https://www.acmicpc.net/problem/1713) <br>[6987. 월드컵](https://www.acmicpc.net/problem/6987)||
+|231102 (목)|PGS|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br>[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)||
+||BOJ|[2548. 대표 자연수](https://www.acmicpc.net/problem/2548) <br>[2512. 예산](https://www.acmicpc.net/problem/2512)||
 
 <br> <br>
 

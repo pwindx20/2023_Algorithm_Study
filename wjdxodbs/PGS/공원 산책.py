@@ -40,4 +40,4 @@ def solution(park, routes):
                         r += i
                         break
 
-    return [r, c]
+    return [ r, c]

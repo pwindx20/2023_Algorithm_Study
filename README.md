@@ -9,8 +9,8 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231102 (목)|PGS|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br>[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)||
-||BOJ|[2548. 대표 자연수](https://www.acmicpc.net/problem/2548) <br>[2512. 예산](https://www.acmicpc.net/problem/2512)||
+|231103 (금)|PGS|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) <br>[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)||
+||BOJ|[15787. 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) <br>[5766. 할아버지는 유명해!](https://www.acmicpc.net/problem/5766)||
 
 <br> <br>
 

@@ -9,7 +9,7 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231106 (월)|PGS|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) <br>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br>[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <br>[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)||
+|231107 (화)|PGS|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) <br>[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) <br>[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)<br>[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)||
 ||BOJ|||
 
 <br> <br>

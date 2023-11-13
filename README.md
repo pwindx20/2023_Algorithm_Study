@@ -9,7 +9,7 @@
 ## 👩‍💻 오늘의 문제
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
-|231108 (수)|PGS|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) <br>[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) <br>[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <br>[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)||
+|231113 (월)|PGS|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) <br>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br>[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <br>[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)||
 ||BOJ|||
 
 <br> <br>
@@ -126,6 +126,27 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 
 #### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
 
+#### 🔥5주차🔥
+|날짜|폴더명|문제|진행현황|
+|-|-|-|-|
+|231113 (월)|PGS|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) <br>[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) <br>[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) <br>[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)||
+||BOJ|||
+|231114 (화)|PGS|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) <br>[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) <br>[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)<br>[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)||
+||BOJ|||
+|231115 (수)|PGS|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) <br>[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) <br>[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) <br>[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)||
+||BOJ|||
+|231116 (목)|PGS|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) <br>[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) <br>[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) <br>[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)||
+||BOJ|||
+|231117 (금)|PGS|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <br>[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) <br>[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) <br>[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)||
+||BOJ|||
+
+<br><br>
+
+<details>
+<summary> 더보기 </summary>
+
+#### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
+
 #### 🔥4주차🔥
 |날짜|폴더명|문제|진행현황|
 |-|-|-|-|
@@ -139,13 +160,6 @@ git commit -m "ADD: [BOJ] 2557. Hello World"
 ||BOJ|||
 |231110 (금)|PGS|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <br>[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) <br>[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) <br>[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)||
 ||BOJ|||
-
-<br><br>
-
-<details>
-<summary> 더보기 </summary>
-
-#### 2차: 프로그래머스 코딩테스트 연습 + 백준 문제
 
 #### 🔥3주차🔥
 |날짜|폴더명|문제|진행현황|
